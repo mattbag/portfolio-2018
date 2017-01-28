@@ -279,8 +279,8 @@
 	border-color: #FFFFFF;
 	z-index: 4;
 	height: 550px;
-	background: #2C2C3C url("https://mattbag.github.io/yes/images/fashion_by_melihvatansever-ieu130-fr.png") no-repeat right top;
-	background: rgba(0,0,0,0) url("https://mattbag.github.io/yes/images/fashion_by_melihvatansever.jpg") no-repeat right top;
+	background: #2C2C3C url("../images/fashion_by_melihvatansever-ieu130-fr.png") no-repeat right top;
+	background: rgba(0,0,0,0) url("../images/fashion_by_melihvatansever.jpg") no-repeat right top;
 	background-color: #2C2C3C;
 	background-size: cover;
 }
@@ -559,7 +559,7 @@
 	width: 100%;
 	margin-right: -10000px;
 	z-index: 95;
-	background: transparent url("https://mattbag.github.io/yes/images/model-600225_640.jpg") no-repeat left top;
+	background: transparent url("../images/model-600225_640.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -616,7 +616,7 @@
 	position: relative;
 	z-index: 93;
 	height: 310px;
-	background: #E9FF8A url("https://mattbag.github.io/yes/images/girls-602168_640.jpg") no-repeat center center;
+	background: #E9FF8A url("../images/girls-602168_640.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -760,7 +760,7 @@
 	z-index: 17;
 	height: 400px;
 	border-width: 0px 10px;
-	background: #E3C574 url("https://mattbag.github.io/yes/images/model-600238_640.jpg") no-repeat center center;
+	background: #E3C574 url("../images/model-600238_640.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -810,7 +810,7 @@
 	margin-right: -10000px;
 	z-index: 18;
 	height: 378px;
-	background: #E9FF8A url("https://mattbag.github.io/yes/images/wildfox__in_the_crowd_by_allaboutfashion-2.jpg") no-repeat center top;
+	background: #E9FF8A url("../images/wildfox__in_the_crowd_by_allaboutfashion-2.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -1114,7 +1114,7 @@ body
 
 	#u143
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/model-600225_640-ieu143-fr.png");
+		-pie-background: url("../images/model-600225_640-ieu143-fr.png");
 		padding-bottom: 77.10000000000082px;
 		margin-left: 0%;
 		left: 0px;
@@ -1509,7 +1509,7 @@ body
 
 	#u143
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/model-600225_640-ieu143-fr.png");
+		-pie-background: url("../images/model-600225_640-ieu143-fr.png");
 		padding-bottom: 77.10000000000082px;
 	}
 
@@ -1890,7 +1890,7 @@ body
 
 	#u143
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/model-600225_640-ieu143-fr2.png");
+		-pie-background: url("../images/model-600225_640-ieu143-fr2.png");
 		padding-bottom: 78.10000000000082px;
 	}
 
@@ -2053,7 +2053,7 @@ body
 
 	#u148
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png");
+		-pie-background: url("../images/wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png");
 		width: 68.36%;
 	}
 
@@ -2269,7 +2269,7 @@ body
 
 	#u143
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/model-600225_640-ieu143-fr3.png");
+		-pie-background: url("../images/model-600225_640-ieu143-fr3.png");
 		padding-bottom: 77.10000000000082px;
 	}
 
@@ -2439,7 +2439,7 @@ body
 
 	#u148
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png");
+		-pie-background: url("../images/wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png");
 		width: 68.34%;
 	}
 
@@ -2669,7 +2669,7 @@ body
 
 	#u143
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/model-600225_640-ieu143-fr4.png");
+		-pie-background: url("../images/model-600225_640-ieu143-fr4.png");
 		padding-bottom: 85px;
 	}
 
@@ -2842,7 +2842,7 @@ body
 
 	#u148
 	{
-		-pie-background: url("https://mattbag.github.io/yes/images/wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png");
+		-pie-background: url("../images/wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png");
 		width: 68.3%;
 	}
 

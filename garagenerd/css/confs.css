@@ -725,7 +725,7 @@
 	border-radius: 25px;
 	top: -113px;
 	left: 725px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+	background: transparent url("../images/close_button_normal.png") no-repeat left top;
 }
 
 #u7149:hover
@@ -734,7 +734,7 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #999999 url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -828,7 +828,7 @@
 	border-radius: 2px;
 	padding-bottom: 82px;
 	position: relative;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image1.jpg") no-repeat center center;
+	background: #CACACA url("../images/image1.jpg") no-repeat center center;
 }
 
 #buttonu8281:hover
@@ -836,7 +836,7 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #545454 url("https://mattbag.github.io/garagenerd/images/image1.jpg") no-repeat center center;
+	background: #545454 url("../images/image1.jpg") no-repeat center center;
 }
 
 #buttonu8281.ButtonSelected
@@ -846,12 +846,12 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image1.jpg") no-repeat center center;
+	background: #CACACA url("../images/image1.jpg") no-repeat center center;
 }
 
 .hidpi #buttonu8281,.hidpi #buttonu8281:hover,.hidpi #buttonu8281.ButtonSelected
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/image1_2x.jpg");
+	background-image: url("../images/image1_2x.jpg");
 	background-size: 360px 213px;
 }
 
@@ -1163,7 +1163,7 @@
 	border-radius: 25px;
 	top: -113px;
 	left: 725px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+	background: transparent url("../images/close_button_normal.png") no-repeat left top;
 }
 
 #u16108:hover
@@ -1172,7 +1172,7 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #999999 url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 #buttonu9869
@@ -1489,7 +1489,7 @@
 	border-radius: 25px;
 	top: -113px;
 	left: 725px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+	background: transparent url("../images/close_button_normal.png") no-repeat left top;
 }
 
 #u16116:hover
@@ -1498,7 +1498,7 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #999999 url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 #buttonu9907
@@ -1807,7 +1807,7 @@
 	border-radius: 25px;
 	top: -113px;
 	left: 725px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+	background: transparent url("../images/close_button_normal.png") no-repeat left top;
 }
 
 #u16132:hover
@@ -1816,7 +1816,7 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #999999 url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 #buttonu9939
@@ -2157,7 +2157,7 @@
 	border-radius: 25px;
 	top: -113px;
 	left: 725px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+	background: transparent url("../images/close_button_normal.png") no-repeat left top;
 }
 
 #u16148:hover
@@ -2166,7 +2166,7 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #999999 url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 #u7149:active,#u16108:active,#u16116:active,#u16132:active,#u16148:active
@@ -2175,18 +2175,18 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #6B6B6B url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #6B6B6B url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 .hidpi #u7149,.hidpi #u16108,.hidpi #u16116,.hidpi #u16132,.hidpi #u16148
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/close_button_normal_2x.png");
+	background-image: url("../images/close_button_normal_2x.png");
 	background-size: 30px 30px;
 }
 
 .hidpi #u7149:hover,.hidpi #u7149:active,.hidpi #u16108:hover,.hidpi #u16108:active,.hidpi #u16116:hover,.hidpi #u16116:active,.hidpi #u16132:hover,.hidpi #u16132:active,.hidpi #u16148:hover,.hidpi #u16148:active
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/close_button_rollover_2x.png");
+	background-image: url("../images/close_button_rollover_2x.png");
 	background-size: 30px 30px;
 }
 
@@ -2311,7 +2311,7 @@
 	border-radius: 2px;
 	padding-bottom: 82px;
 	position: relative;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image2.jpg") no-repeat center center;
+	background: #CACACA url("../images/image2.jpg") no-repeat center center;
 }
 
 #buttonu8316:hover
@@ -2319,7 +2319,7 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #545454 url("https://mattbag.github.io/garagenerd/images/image2.jpg") no-repeat center center;
+	background: #545454 url("../images/image2.jpg") no-repeat center center;
 }
 
 #buttonu8316.ButtonSelected
@@ -2329,12 +2329,12 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image2.jpg") no-repeat center center;
+	background: #CACACA url("../images/image2.jpg") no-repeat center center;
 }
 
 .hidpi #buttonu8316,.hidpi #buttonu8316:hover,.hidpi #buttonu8316.ButtonSelected
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/image2_2x.jpg");
+	background-image: url("../images/image2_2x.jpg");
 	background-size: 360px 213px;
 }
 
@@ -2421,7 +2421,7 @@
 	border-radius: 2px;
 	padding-bottom: 82px;
 	position: relative;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image3.jpg") no-repeat center center;
+	background: #CACACA url("../images/image3.jpg") no-repeat center center;
 }
 
 #buttonu8325:hover
@@ -2429,7 +2429,7 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #545454 url("https://mattbag.github.io/garagenerd/images/image3.jpg") no-repeat center center;
+	background: #545454 url("../images/image3.jpg") no-repeat center center;
 }
 
 #buttonu8325.ButtonSelected
@@ -2439,12 +2439,12 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image3.jpg") no-repeat center center;
+	background: #CACACA url("../images/image3.jpg") no-repeat center center;
 }
 
 .hidpi #buttonu8325,.hidpi #buttonu8325:hover,.hidpi #buttonu8325.ButtonSelected
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/image3_2x.jpg");
+	background-image: url("../images/image3_2x.jpg");
 	background-size: 360px 213px;
 }
 
@@ -2531,7 +2531,7 @@
 	border-radius: 2px;
 	padding-bottom: 82px;
 	position: relative;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image4.jpg") no-repeat center center;
+	background: #CACACA url("../images/image4.jpg") no-repeat center center;
 }
 
 #buttonu8334:hover
@@ -2539,7 +2539,7 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #545454 url("https://mattbag.github.io/garagenerd/images/image4.jpg") no-repeat center center;
+	background: #545454 url("../images/image4.jpg") no-repeat center center;
 }
 
 #buttonu8334.ButtonSelected
@@ -2549,7 +2549,7 @@
 	width: 360px;
 	min-height: 0px;
 	margin: 0px;
-	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image4.jpg") no-repeat center center;
+	background: #CACACA url("../images/image4.jpg") no-repeat center center;
 }
 
 #buttonu8281:hover::before,#buttonu8316:hover::before,#buttonu8325:hover::before,#buttonu8334:hover::before
@@ -2567,7 +2567,7 @@
 
 .hidpi #buttonu8334,.hidpi #buttonu8334:hover,.hidpi #buttonu8334.ButtonSelected
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/image4_2x.jpg");
+	background-image: url("../images/image4_2x.jpg");
 	background-size: 360px 213px;
 }
 

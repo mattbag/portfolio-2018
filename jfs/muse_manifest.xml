@@ -1,0 +1,36 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1427994072210">
+  <folder name="css">
+    <file name="site_global.css" crc="4091887897"/>
+    <file name="master_a-master.css" crc="4182884137" ref="index"/>
+    <file name="index.css" crc="3961092047" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index"/>
+    <file name="museutils.js" crc="479751881" ref="index"/>
+    <file name="webpro.js" crc="3930024250" ref="index"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hairdresser.jpg" crc="4268329333" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="vogue-russia-3.jpg" crc="202223636" ref="index"/>
+    <file name="hairdresser68x45.jpg" crc="266615909" ref="index"/>
+    <file name="vogue-russia-366x45.jpg" crc="487817549" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="3skull-jean-u570.png" crc="370779049" ref="index"/>
+    <file name="u485-4.png" crc="217055574" ref="index"/>
+    <file name="u515-4.png" crc="3818837500" ref="index"/>
+    <file name="u529-14.png" crc="55484215" ref="index"/>
+    <file name="scis.svg" crc="3971761843" ref="index"/>
+    <file name="scis_poster_.png" crc="3840805852" ref="index"/>
+    <file name="u538-14.png" crc="4051353970" ref="index"/>
+    <file name="u548-14.png" crc="4196119188" ref="index"/>
+    <file name="u549-14.png" crc="4039105050" ref="index"/>
+  </folder>
+  <file name="index.html" crc="35693017" mt="1427994006518" redirect="true"/>
+</manifest>

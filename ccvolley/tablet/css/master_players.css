@@ -1,0 +1,304 @@
+#u2015
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #FFFFFF;
+	opacity: 0.67;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
+	filter: alpha(opacity=67);
+	border-radius: 140px 140px 0px 140px ;
+	position: relative;
+}
+
+#u2016
+{
+	overflow: hidden;
+	position: relative;
+}
+
+#u1981
+{
+	border-style: none;
+	background-color: #B6CAF3;
+	position: relative;
+}
+
+#tab-panelu1965,#u1986
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1986:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1988-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	position: relative;
+}
+
+#u1986:active #u1989,#u1998:active #u2001,#u1986.TabbedPanelsTabSelected #u1989,#u1986.TabbedPanelsTabSelected #u1987,#u1994.TabbedPanelsTabSelected #u1996,#u1994:active #u1996,#u1998.TabbedPanelsTabSelected #u2001,#u1986:active #u1987,#u1994.TabbedPanelsTabSelected #u1995,#u1994:active #u1995,#u1990.TabbedPanelsTabSelected #u1991,#u1990:active #u1991,#u1990.TabbedPanelsTabSelected #u1993,#u1990:active #u1993,#u1998:active #u1999,#u1998.TabbedPanelsTabSelected #u1999,#u1986:hover #u1987,#u1986:hover #u1988-4
+{
+	background-color: transparent;
+}
+
+#u1986:active #u1988-4
+{
+	background-color: transparent;
+}
+
+#u1986:hover #u1988-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1986:active #u1988-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1987,#u1989,#u1994
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1986.TabbedPanelsTabSelected,#u1994:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1997-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	position: relative;
+}
+
+#u1986.TabbedPanelsTabSelected #u1988-4,#u1986:hover #u1989,#u1994:hover #u1995,#u1994:hover #u1997-4
+{
+	background-color: transparent;
+}
+
+#u1994:active #u1997-4
+{
+	background-color: transparent;
+}
+
+#u1986.TabbedPanelsTabSelected #u1988-4 p,#u1994:hover #u1997-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1994:active #u1997-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1995,#u1996,#u1998
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1994.TabbedPanelsTabSelected,#u1998:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u2000-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	position: relative;
+}
+
+#u1994.TabbedPanelsTabSelected #u1997-4,#u1994:hover #u1996,#u1998:hover #u2001,#u1998:hover #u2000-4
+{
+	background-color: transparent;
+}
+
+#u1998:active #u2000-4
+{
+	background-color: transparent;
+}
+
+#u1994.TabbedPanelsTabSelected #u1997-4 p,#u1998:hover #u2000-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1998:active #u2000-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1998.TabbedPanelsTabSelected #u2000-4 p
+{
+	color: #000000;
+	visibility: inherit;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 12px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u2001,#u1999,#u1990
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1998.TabbedPanelsTabSelected,#u1990:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1992-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	position: relative;
+}
+
+#u1998.TabbedPanelsTabSelected #u2000-4,#u1998:hover #u1999,#u1990:hover #u1993,#u1990:hover #u1992-4
+{
+	background-color: transparent;
+}
+
+#u1990:active #u1992-4
+{
+	background-color: transparent;
+}
+
+#u1990:hover #u1992-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1990:active #u1992-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1990.TabbedPanelsTabSelected #u1992-4,#u1990:hover #u1991
+{
+	background-color: transparent;
+}
+
+#u1993,#u1991,#u1982
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1990.TabbedPanelsTabSelected,#u1982:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1982.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1983-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	position: relative;
+}
+
+#u1990.TabbedPanelsTabSelected #u1992-4 p,#u1982:hover #u1983-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1982.TabbedPanelsTabSelected #u1983-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1984,#u1985,#u1966
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1979,#u1980,#u1972,#u1971,#u1968,#u1969
+{
+	background-color: #7F7F7F;
+	position: relative;
+}
+
+#u1978,#u1970,#u1967,#u1973,#u1976
+{
+	border-style: none;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+.TabbedPanelsTab /* tabset */
+{
+	cursor: pointer;
+}
+

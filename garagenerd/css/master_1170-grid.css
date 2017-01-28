@@ -14,7 +14,7 @@
 
 #u3605
 {
-	background: transparent url("https://mattbag.github.io/garagenerd/images/nerd-band2.png") no-repeat center center;
+	background: transparent url("../images/nerd-band2.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -22,18 +22,18 @@
 {
 	border-width: 0px;
 	border-color: #000000;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/logo.png") no-repeat center center;
+	background: transparent url("../images/logo.png") no-repeat center center;
 }
 
 .hidpi .Big-Logo
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/logo_2x.png");
+	background-image: url("../images/logo_2x.png");
 	background-size: 216px 73px;
 }
 
 .hidpi #u3605
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/nerd-band_2x.png");
+	background-image: url("../images/nerd-band_2x.png");
 }
 
 #u2380-3
@@ -51,12 +51,12 @@
 {
 	border-width: 0px;
 	border-color: transparent;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/slider_arrow_2.png") no-repeat center center;
+	background: transparent url("../images/slider_arrow_2.png") no-repeat center center;
 }
 
 .hidpi .Slider_Previous_Button
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/slider_arrow_2_2x.png");
+	background-image: url("../images/slider_arrow_2_2x.png");
 	background-size: 37px 52px;
 }
 
@@ -76,18 +76,18 @@
 {
 	border-width: 0px;
 	border-color: transparent;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/slider_arrow_1.png") no-repeat center center;
+	background: transparent url("../images/slider_arrow_1.png") no-repeat center center;
 }
 
 .hidpi .Slider_Next_Button
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/slider_arrow_1_2x.png");
+	background-image: url("../images/slider_arrow_1_2x.png");
 	background-size: 37px 52px;
 }
 
 .SSSlideLoading /* slideshowFreeStyle */
 {
-	background: url("https://mattbag.github.io/garagenerd/images/loading.gif") no-repeat center center;
+	background: url("../images/loading.gif") no-repeat center center;
 }
 
 #u26698,#u2391,#u267,#u268
@@ -185,7 +185,7 @@
 
 #u15956
 {
-	background: transparent url("https://mattbag.github.io/garagenerd/images/nerd-band-u15956-fr.png") no-repeat center center;
+	background: transparent url("../images/nerd-band-u15956-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -196,18 +196,18 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	background: transparent url("https://mattbag.github.io/garagenerd/images/logo_small.png") no-repeat center center;
+	background: transparent url("../images/logo_small.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi .Small-Logo
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/logo_small_2x.png");
+	background-image: url("../images/logo_small_2x.png");
 }
 
 .hidpi #u15956
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/nerd-band-u15956-fr_2x.png");
+	background-image: url("../images/nerd-band-u15956-fr_2x.png");
 }
 
 .js #u2380-3.ose_pre_init,.js #u2373-3.ose_pre_init,.js #u15956.ose_pre_init
@@ -408,45 +408,45 @@
 
 #u2308-17
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u2308-17.png") no-repeat 0px 0px;
+	background: url("../images/u2308-17.png") no-repeat 0px 0px;
 }
 
 #u2308-17:hover
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u2308-17-r.png") no-repeat 0px 0px;
+	background: url("../images/u2308-17-r.png") no-repeat 0px 0px;
 }
 
 #u2308-17:active
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u2308-17-m.png") no-repeat 0px 0px;
+	background: url("../images/u2308-17-m.png") no-repeat 0px 0px;
 }
 
 #widgetu2305.frm-sub-st #u2308-17
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u2308-17-fs.png") no-repeat 0px 0px;
+	background: url("../images/u2308-17-fs.png") no-repeat 0px 0px;
 }
 
 .hidpi #u2308-17
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17_2x.png");
+	background-image: url("../images/u2308-17_2x.png");
 	background-size: 130px 30px;
 }
 
 .hidpi #u2308-17:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17-r_2x.png");
+	background-image: url("../images/u2308-17-r_2x.png");
 	background-size: 130px 30px;
 }
 
 .hidpi #u2308-17:active
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17-m_2x.png");
+	background-image: url("../images/u2308-17-m_2x.png");
 	background-size: 130px 30px;
 }
 
 .hidpi #widgetu2305.frm-sub-st #u2308-17
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17-fs_2x.png");
+	background-image: url("../images/u2308-17-fs_2x.png");
 	background-size: 130px 30px;
 }
 

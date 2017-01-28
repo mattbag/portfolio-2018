@@ -1,0 +1,62 @@
+#u768
+{
+	border-color: #000000;
+	background-color: #B51C24;
+}
+
+#accordionu821
+{
+	border-color: #7F7F7F;
+	background-color: transparent;
+}
+
+#u827
+{
+	border-color: #FFFFFF;
+	background-color: transparent;
+}
+
+#u826,#u1612,#u1603,#u1639,#u1630,#u1648,#u1621,#u1657
+{
+	background-color: transparent;
+}
+
+#u781,#u787,#u775,#u784,#u790,#u772,#u778
+{
+	display: block;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#u1010
+{
+	vertical-align: top;
+}
+
+#u1010_states
+{
+	float: left;
+	background: url("../../images/u1010_states.png") no-repeat 0px 0px;
+}
+
+#u1010:hover #u1010_states
+{
+	background: url("../../images/u1010_states-r.png") no-repeat 0px 0px;
+}
+
+#u766
+{
+	border-color: #000000;
+	background-color: #534741;
+}
+
+#u829-4,#u767-8
+{
+	display: block;
+	vertical-align: top;
+}
+
+

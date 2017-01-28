@@ -1,0 +1,34 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="wised.com" resolutions="1x" timestamp="1456632190810">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="146370711" ref="index"/>
+    <file name="nomq_index.css" crc="3996613084" ref="index"/>
+    <file name="two.css" crc="3886916205" ref="two"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:two"/>
+    <file name="museutils.js" crc="4190794036" ref="index:two"/>
+    <file name="whatinput.js" crc="84559013" ref="index:two"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:two"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:two"/>
+    <file name="jquery.museresponsive.js" crc="408737887" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="fashion_by_melihvatansever-ieu130-fr.png" crc="115570942" ref="index"/>
+    <file name="fashion_by_melihvatansever.jpg" crc="344983053" ref="index"/>
+    <file name="girls-602168_640.jpg" crc="4012286284" ref="index"/>
+    <file name="model-600225_640-ieu143-fr.png" crc="4133526667" ref="index"/>
+    <file name="model-600225_640.jpg" crc="127280294" ref="index"/>
+    <file name="model-600238_640.jpg" crc="3878957572" ref="index"/>
+    <file name="wildfox__in_the_crowd_by_allaboutfashion-2.jpg" crc="26053788" ref="index"/>
+    <file name="model-600225_640-ieu143-fr2.png" crc="265927999" ref="index"/>
+    <file name="wildfox__in_the_crowd_by_allaboutfashion-2-ieu148-fr.png" crc="3903635569" ref="index"/>
+    <file name="model-600225_640-ieu143-fr3.png" crc="43613428" ref="index"/>
+    <file name="model-600225_640-ieu143-fr4.png" crc="471391497" ref="index"/>
+  </folder>
+  <file name="index.html" crc="499904374" seo="true" mt="1456632077085" redirect="true"/>
+  <file name="two.html" crc="311578225" seo="true" mt="1456629651137" redirect="false"/>
+</manifest>

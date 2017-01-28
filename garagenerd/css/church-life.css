@@ -395,7 +395,7 @@
 	height: 175px;
 	border-color: #000000;
 	border-radius: 5px 5px 0px 0px ;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/newspage_4.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/newspage_4.jpg") no-repeat left top;
 }
 
 #pbuttonu9423:hover #u9430
@@ -411,7 +411,7 @@
 
 .hidpi #u9430
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/newspage_4_2x.jpg");
+	background-image: url("../images/newspage_4_2x.jpg");
 	background-size: 360px 175px;
 }
 
@@ -572,7 +572,7 @@
 	height: 175px;
 	border-color: #000000;
 	border-radius: 5px 5px 0px 0px ;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/newspage_2.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/newspage_2.jpg") no-repeat left top;
 }
 
 #pbuttonu9357:hover #u9368
@@ -588,7 +588,7 @@
 
 .hidpi #u9368
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/newspage_2_2x.jpg");
+	background-image: url("../images/newspage_2_2x.jpg");
 	background-size: 360px 175px;
 }
 
@@ -749,7 +749,7 @@
 	height: 175px;
 	border-color: #000000;
 	border-radius: 5px 5px 0px 0px ;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/newspage_1.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/newspage_1.jpg") no-repeat left top;
 }
 
 #pbuttonu9411:hover #u9417
@@ -765,7 +765,7 @@
 
 .hidpi #u9417
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/newspage_1_2x.jpg");
+	background-image: url("../images/newspage_1_2x.jpg");
 	background-size: 360px 175px;
 }
 
@@ -948,7 +948,7 @@
 	height: 175px;
 	border-color: #000000;
 	border-radius: 5px 5px 0px 0px ;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/newspage_5.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/newspage_5.jpg") no-repeat left top;
 }
 
 #pbuttonu9435:hover #u9440
@@ -964,7 +964,7 @@
 
 .hidpi #u9440
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/newspage_5_2x.jpg");
+	background-image: url("../images/newspage_5_2x.jpg");
 	background-size: 360px 175px;
 }
 
@@ -1142,7 +1142,7 @@
 	height: 175px;
 	border-color: #000000;
 	border-radius: 5px 5px 0px 0px ;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/newspage_3.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/newspage_3.jpg") no-repeat left top;
 }
 
 #pbuttonu9399:hover #u9406
@@ -1158,7 +1158,7 @@
 
 .hidpi #u9406
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/newspage_3_2x.jpg");
+	background-image: url("../images/newspage_3_2x.jpg");
 	background-size: 360px 175px;
 }
 
@@ -1365,7 +1365,7 @@
 	height: 175px;
 	border-color: #000000;
 	border-radius: 5px 5px 0px 0px ;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/newspage_6.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/newspage_6.jpg") no-repeat left top;
 }
 
 #pbuttonu9387:hover #u9398
@@ -1390,7 +1390,7 @@
 
 .hidpi #u9398
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/newspage_6_2x.jpg");
+	background-image: url("../images/newspage_6_2x.jpg");
 	background-size: 360px 175px;
 }
 

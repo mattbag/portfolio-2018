@@ -83,7 +83,7 @@
 	z-index: 92;
 	min-height: 123px;
 	padding-bottom: 77px;
-	background: #4778BA url("https://mattbag.github.io/garagenerd/images/silicon-cop.jpg") no-repeat center top;
+	background: #4778BA url("../images/silicon-cop.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -496,12 +496,12 @@
 	border-color: #4778BA;
 	border-radius: 210px;
 	position: relative;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/team2.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/team2.jpg") no-repeat left top;
 }
 
 .hidpi #u1524
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/team2_2x.jpg");
+	background-image: url("../images/team2_2x.jpg");
 	background-size: 265px 265px;
 }
 
@@ -560,12 +560,12 @@
 	border-color: #4778BA;
 	border-radius: 180px;
 	position: relative;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/team4.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/team4.jpg") no-repeat left top;
 }
 
 .hidpi #u1521
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/team4_2x.jpg");
+	background-image: url("../images/team4_2x.jpg");
 	background-size: 265px 265px;
 }
 
@@ -624,12 +624,12 @@
 	border-color: #4778BA;
 	border-radius: 190px;
 	position: relative;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/team3.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/team3.jpg") no-repeat left top;
 }
 
 .hidpi #u1525
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/team3_2x.jpg");
+	background-image: url("../images/team3_2x.jpg");
 	background-size: 265px 265px;
 }
 
@@ -688,12 +688,12 @@
 	border-color: #4778BA;
 	border-radius: 190px;
 	position: relative;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/team1.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/team1.jpg") no-repeat left top;
 }
 
 .hidpi #u1520
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/team1_2x.jpg");
+	background-image: url("../images/team1_2x.jpg");
 	background-size: 265px 265px;
 }
 

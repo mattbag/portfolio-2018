@@ -1,16 +1,16 @@
 #widgetu679.fld-err-st #u681
 {
-	background: url("https://mattbag.github.io/pizzeria/images/u681-ferr.png") no-repeat 0px 0px;
+	background: url("../images/u681-ferr.png") no-repeat 0px 0px;
 }
 
 #widgetu675.fld-err-st #u678
 {
-	background: url("https://mattbag.github.io/pizzeria/images/u678-ferr.png") no-repeat 0px 0px;
+	background: url("../images/u678-ferr.png") no-repeat 0px 0px;
 }
 
 #widgetu625.fld-err-st #u628
 {
-	background: url("https://mattbag.github.io/pizzeria/images/u628-ferr.png") no-repeat 0px 0px;
+	background: url("../images/u628-ferr.png") no-repeat 0px 0px;
 }
 
 .version.delivery /* version checker */
@@ -104,7 +104,7 @@
 	border-radius: 0px 30px 0px 30px ;
 	margin-top: 12px;
 	position: relative;
-	background: #FFFFFF url("https://mattbag.github.io/pizzeria/images/pizza-21.jpg") no-repeat center top;
+	background: #FFFFFF url("../images/pizza-21.jpg") no-repeat center top;
 }
 
 #u566:hover
@@ -129,7 +129,7 @@
 	border-radius: 0px 30px 0px 30px ;
 	margin-top: 52px;
 	position: relative;
-	background: #FFFFFF url("https://mattbag.github.io/pizzeria/images/pizza-21.jpg") no-repeat center top;
+	background: #FFFFFF url("../images/pizza-21.jpg") no-repeat center top;
 }
 
 #u575
@@ -143,7 +143,7 @@
 	border-radius: 0px 30px 0px 30px ;
 	margin-top: 52px;
 	position: relative;
-	background: #FFFFFF url("https://mattbag.github.io/pizzeria/images/pizza-21.jpg") no-repeat center top;
+	background: #FFFFFF url("../images/pizza-21.jpg") no-repeat center top;
 }
 
 #u574:hover,#u575:hover
@@ -721,7 +721,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 2px;
-	background: url("https://mattbag.github.io/pizzeria/images/u628.png") no-repeat 0px 0px;
+	background: url("../images/u628.png") no-repeat 0px 0px;
 }
 
 #u626-3
@@ -890,22 +890,22 @@
 	top: 168px;
 	left: 50%;
 	margin-left: 504px;
-	background: url("https://mattbag.github.io/pizzeria/images/u620-17.png") no-repeat 4px 4px;
+	background: url("../images/u620-17.png") no-repeat 4px 4px;
 }
 
 #u620-17:hover
 {
-	background: url("https://mattbag.github.io/pizzeria/images/u620-17-r.png") no-repeat 0px 0px;
+	background: url("../images/u620-17-r.png") no-repeat 0px 0px;
 }
 
 #u620-17:active
 {
-	background: url("https://mattbag.github.io/pizzeria/images/u620-17-m.png") no-repeat 0px 0px;
+	background: url("../images/u620-17-m.png") no-repeat 0px 0px;
 }
 
 #widgetu619.frm-sub-st #u620-17
 {
-	background: url("https://mattbag.github.io/pizzeria/images/u620-17-fs.png") no-repeat 4px 4px;
+	background: url("../images/u620-17-fs.png") no-repeat 4px 4px;
 }
 
 #widgetu675
@@ -941,7 +941,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 2px;
-	background: url("https://mattbag.github.io/pizzeria/images/u678.png") no-repeat 0px 0px;
+	background: url("../images/u678.png") no-repeat 0px 0px;
 }
 
 #u676-3
@@ -1042,7 +1042,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 2px;
-	background: url("https://mattbag.github.io/pizzeria/images/u681.png") no-repeat 0px 0px;
+	background: url("../images/u681.png") no-repeat 0px 0px;
 }
 
 #u682-3

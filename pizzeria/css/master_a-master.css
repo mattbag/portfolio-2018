@@ -195,7 +195,7 @@
 	transition-duration: 0.2s;
 	transition-delay: 0s;
 	transition-timing-function: ease;
-	background: url("https://mattbag.github.io/pizzeria/images/u154_states.png") no-repeat 0px 0px;
+	background: url("../images/u154_states.png") no-repeat 0px 0px;
 }
 
 #u154:hover #u154_states
@@ -206,7 +206,7 @@
 	transition-duration: 0.2s;
 	transition-delay: 0s;
 	transition-timing-function: ease;
-	background: url("https://mattbag.github.io/pizzeria/images/u154_states-r.png") no-repeat 0px 0px;
+	background: url("../images/u154_states-r.png") no-repeat 0px 0px;
 }
 
 #u185

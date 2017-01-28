@@ -1,0 +1,62 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.e.et" resolutions="1x" timestamp="1467353628675">
+  <folder name="css">
+    <file name="site_global.css" crc="453445126"/>
+    <file name="master_a-master.css" crc="326197538" ref="libraries:beds"/>
+    <file name="nomq_preview_master_a-master.css" crc="399049278" ref="libraries:beds"/>
+    <file name="libraries.css" crc="3932260412" ref="libraries"/>
+    <file name="nomq_libraries.css" crc="386851993" ref="libraries"/>
+    <file name="beds.css" crc="207656280" ref="beds"/>
+    <file name="nomq_beds.css" crc="53118235" ref="beds"/>
+    <file name="index.css" crc="3827786042" ref="index"/>
+    <file name="nomq_index.css" crc="460409115" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:libraries:beds"/>
+    <file name="museutils.js" crc="4155826306" ref="index:libraries:beds"/>
+    <file name="whatinput.js" crc="86476730" ref="index:libraries:beds"/>
+    <file name="museconfig.js" crc="328327953" ref="index:libraries:beds"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:libraries:beds"/>
+    <file name="pie.js" crc="3827607177" ref="index:libraries:beds"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:libraries:beds"/>
+    <file name="jquery.scrolleffects.js" crc="4069228690" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index:libraries:beds"/>
+    <file name="require.js" crc="228336483" ref="index:libraries:beds"/>
+    <file name="webpro.js" crc="4078243563" ref="libraries:beds"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="libraries:beds"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="libraries:beds"/>
+    <file name="touchswipe.js" crc="157639107" ref="libraries:beds"/>
+  </folder>
+  <folder name="images">
+    <file name="guida-allacquisto-di-mobili-dantiquariato_dbddfce1ecc844cf3411a855684bf378-u104-fr.png" crc="472528584" ref="index"/>
+    <file name="antique-logo.svg" crc="4091905233" seo="true" ref="index:libraries:beds"/>
+    <file name="antique-logo_poster_.png" crc="101733265" ref="index"/>
+    <file name="library.jpg" crc="4107773278" seo="true" ref="index:libraries"/>
+    <file name="blank.gif" crc="4208392903" ref="index:libraries:beds"/>
+    <file name="bed.jpg" crc="76487877" ref="index:beds"/>
+    <file name="couch.jpg" crc="370814124" ref="index"/>
+    <file name="chairs.jpg" crc="184241998" ref="index"/>
+    <file name="bedtable.jpg" crc="3773049482" ref="index"/>
+    <file name="borntobewise-logo184x185.png" crc="4177921033" seo="true" ref="index"/>
+    <file name="borntobewise-logo.png" crc="4177921033" seo="true" ref="index"/>
+    <file name="lib2.jpg" crc="67375196" ref="libraries"/>
+    <file name="lib3.jpg" crc="4136316727" ref="libraries"/>
+    <file name="borntobewise-logo102x102.png" crc="4177921033" seo="true" ref="libraries"/>
+    <file name="lib2-u812-fr.jpg" crc="257954540" ref="libraries"/>
+    <file name="borntobewise-logo77x77.png" crc="4058987278" seo="true" ref="libraries"/>
+    <file name="lib2-u812-fr2.jpg" crc="392443399" ref="libraries"/>
+    <file name="borntobewise-logo91x91.png" crc="287651427" seo="true" ref="libraries"/>
+    <file name="borntobewise-logo73x73.png" crc="450677861" seo="true" ref="libraries"/>
+    <file name="library274x204.jpg" crc="4125402029" seo="true" ref="libraries"/>
+    <file name="borntobewise-logo41x41.png" crc="406255119" seo="true" ref="libraries"/>
+    <file name="bed2-crop-u4675.jpg" crc="3804055787" ref="beds"/>
+    <file name="bed3.jpg" crc="4268244689" ref="beds"/>
+    <file name="bed2-crop-u46752.jpg" crc="4019696897" ref="beds"/>
+    <file name="bed3-u935-fr.jpg" crc="425908496" ref="beds"/>
+    <file name="bed2-crop-u46753.jpg" crc="4218653403" ref="beds"/>
+    <file name="bed3-u935-fr2.jpg" crc="4126150966" ref="beds"/>
+    <file name="borntobewise-logo39x39.png" crc="3896960534" seo="true" ref="beds"/>
+  </folder>
+  <file name="index.html" crc="104186510" seo="true" mt="1467353464137" redirect="true"/>
+  <file name="libraries.html" crc="63371676" seo="true" mt="1467353516155" redirect="true"/>
+  <file name="beds.html" crc="3895927769" seo="true" mt="1467353516155" redirect="true"/>
+</manifest>

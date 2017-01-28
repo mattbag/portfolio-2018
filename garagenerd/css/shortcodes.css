@@ -792,12 +792,12 @@
 {
 	border-width: 0px;
 	border-color: #000000;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/logo.png") no-repeat center center;
+	background: transparent url("../images/logo.png") no-repeat center center;
 }
 
 .hidpi .Big-Logo
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/logo_2x.png");
+	background-image: url("../images/logo_2x.png");
 	background-size: 216px 73px;
 }
 
@@ -879,12 +879,12 @@
 {
 	border-width: 0px;
 	border-color: transparent;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/slider_arrow_2.png") no-repeat center center;
+	background: transparent url("../images/slider_arrow_2.png") no-repeat center center;
 }
 
 .hidpi .Slider_Previous_Button
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/slider_arrow_2_2x.png");
+	background-image: url("../images/slider_arrow_2_2x.png");
 	background-size: 37px 52px;
 }
 
@@ -906,12 +906,12 @@
 {
 	border-width: 0px;
 	border-color: transparent;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/slider_arrow_1.png") no-repeat center center;
+	background: transparent url("../images/slider_arrow_1.png") no-repeat center center;
 }
 
 .hidpi .Slider_Next_Button
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/slider_arrow_1_2x.png");
+	background-image: url("../images/slider_arrow_1_2x.png");
 	background-size: 37px 52px;
 }
 
@@ -986,19 +986,19 @@
 	height: 51px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/lightbox_arrow1_rollover.png") no-repeat center center;
+	background: transparent url("../images/lightbox_arrow1_rollover.png") no-repeat center center;
 }
 
 .Genius_Gallery_LeftButton_Nor
 {
 	border-width: 0px;
 	border-color: transparent;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/lightbox_arrow1_normal.png") no-repeat center center;
+	background: transparent url("../images/lightbox_arrow1_normal.png") no-repeat center center;
 }
 
 .hidpi .Genius_Gallery_LeftButton_Nor
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/lightbox_arrow1_normal_2x.png");
+	background-image: url("../images/lightbox_arrow1_normal_2x.png");
 	background-size: 50px 50px;
 }
 
@@ -1022,19 +1022,19 @@
 	height: 51px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/lightbox_arrow_rollover.png") no-repeat center center;
+	background: transparent url("../images/lightbox_arrow_rollover.png") no-repeat center center;
 }
 
 .Genius_Gallery_RightButton_Nor
 {
 	border-width: 0px;
 	border-color: transparent;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/lightbox_arrow_normal.png") no-repeat center center;
+	background: transparent url("../images/lightbox_arrow_normal.png") no-repeat center center;
 }
 
 .hidpi .Genius_Gallery_RightButton_Nor
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/lightbox_arrow_normal_2x.png");
+	background-image: url("../images/lightbox_arrow_normal_2x.png");
 	background-size: 50px 50px;
 }
 
@@ -1249,7 +1249,7 @@
 	position: fixed;
 	top: 1113px;
 	left: 343px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/logo_small.png") no-repeat center center;
+	background: transparent url("../images/logo_small.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1260,13 +1260,13 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	background: transparent url("https://mattbag.github.io/garagenerd/images/logo_small.png") no-repeat center center;
+	background: transparent url("../images/logo_small.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi .Small-Logo,.hidpi #u3615
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/logo_small_2x.png");
+	background-image: url("../images/logo_small_2x.png");
 }
 
 .js #u3642.ose_pre_init,.js #u3643.ose_pre_init,.js #u3615.ose_pre_init
@@ -3368,7 +3368,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 455px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3818-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_g--u3818-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3383,7 +3383,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 500px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3820-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_tumbler-u3820-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3398,7 +3398,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 410px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3819-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_facebook-u3819-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3476,7 +3476,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 409px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3819-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_facebook-u3819-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3486,18 +3486,18 @@
 	height: 40px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3819-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_facebook-u3819-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3819,.hidpi #u3824
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3819-fr_2x.png");
+	background-image: url("../images/flat_social_icons_facebook-u3819-fr_2x.png");
 }
 
 .hidpi #u3819:hover,.hidpi #u3824:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3819-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_facebook-u3819-r-fr_2x.png");
 }
 
 #u3825
@@ -3511,7 +3511,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 454px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3818-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_g--u3818-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3521,18 +3521,18 @@
 	height: 40px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3818-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_g--u3818-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3818,.hidpi #u3825
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3818-fr_2x.png");
+	background-image: url("../images/flat_social_icons_g--u3818-fr_2x.png");
 }
 
 .hidpi #u3818:hover,.hidpi #u3825:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3818-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_g--u3818-r-fr_2x.png");
 }
 
 #u3826
@@ -3546,7 +3546,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 499px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3820-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_tumbler-u3820-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3556,18 +3556,18 @@
 	height: 40px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3820-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_tumbler-u3820-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3820,.hidpi #u3826
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3820-fr_2x.png");
+	background-image: url("../images/flat_social_icons_tumbler-u3820-fr_2x.png");
 }
 
 .hidpi #u3820:hover,.hidpi #u3826:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3820-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_tumbler-u3820-r-fr_2x.png");
 }
 
 #u3719-4
@@ -3644,7 +3644,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 288px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3758-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_g--u3758-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3654,18 +3654,18 @@
 	height: 32px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3758-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_g--u3758-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3758
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3758-fr_2x.png");
+	background-image: url("../images/flat_social_icons_g--u3758-fr_2x.png");
 }
 
 .hidpi #u3758:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_g--u3758-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_g--u3758-r-fr_2x.png");
 }
 
 #u3771
@@ -3680,7 +3680,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 323px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3771-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_tumbler-u3771-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3696,7 +3696,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 253px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3772-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_facebook-u3772-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3767,7 +3767,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 255px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3772-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_facebook-u3772-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3777,18 +3777,18 @@
 	height: 32px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3772-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_facebook-u3772-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3772,.hidpi #u3813
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3772-fr_2x.png");
+	background-image: url("../images/flat_social_icons_facebook-u3772-fr_2x.png");
 }
 
 .hidpi #u3772:hover,.hidpi #u3813:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_facebook-u3772-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_facebook-u3772-r-fr_2x.png");
 }
 
 #u3786
@@ -3803,7 +3803,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 290px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_twitter-u3786-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_twitter-u3786-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3813,18 +3813,18 @@
 	height: 32px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_twitter-u3786-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_twitter-u3786-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3786
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_twitter-u3786-fr_2x.png");
+	background-image: url("../images/flat_social_icons_twitter-u3786-fr_2x.png");
 }
 
 .hidpi #u3786:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_twitter-u3786-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_twitter-u3786-r-fr_2x.png");
 }
 
 #u3773
@@ -3839,7 +3839,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 326px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_skype-u3773-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_skype-u3773-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3916,7 +3916,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 253px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_instagram-u3799-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_instagram-u3799-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3926,18 +3926,18 @@
 	height: 32px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_instagram-u3799-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_instagram-u3799-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3799
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_instagram-u3799-fr_2x.png");
+	background-image: url("../images/flat_social_icons_instagram-u3799-fr_2x.png");
 }
 
 .hidpi #u3799:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_instagram-u3799-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_instagram-u3799-r-fr_2x.png");
 }
 
 #u3817
@@ -3952,7 +3952,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 288px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3771-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_tumbler-u3771-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3962,18 +3962,18 @@
 	height: 32px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3771-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_tumbler-u3771-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3771,.hidpi #u3817
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3771-fr_2x.png");
+	background-image: url("../images/flat_social_icons_tumbler-u3771-fr_2x.png");
 }
 
 .hidpi #u3771:hover,.hidpi #u3817:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_tumbler-u3771-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_tumbler-u3771-r-fr_2x.png");
 }
 
 #u3816
@@ -3988,7 +3988,7 @@
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 323px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_skype-u3773-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_skype-u3773-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -3998,18 +3998,18 @@
 	height: 32px;
 	min-height: 0px;
 	margin: 3px -10000px 0px 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/flat_social_icons_skype-u3773-r-fr.png") no-repeat center center;
+	background: transparent url("../images/flat_social_icons_skype-u3773-r-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
 .hidpi #u3773,.hidpi #u3816
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_skype-u3773-fr_2x.png");
+	background-image: url("../images/flat_social_icons_skype-u3773-fr_2x.png");
 }
 
 .hidpi #u3773:hover,.hidpi #u3816:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/flat_social_icons_skype-u3773-r-fr_2x.png");
+	background-image: url("../images/flat_social_icons_skype-u3773-r-fr_2x.png");
 }
 
 #u3734-4
@@ -6102,7 +6102,7 @@
 
 .SSSlideLoading /* slideshowFreeStyle */
 {
-	background: url("https://mattbag.github.io/garagenerd/images/loading.gif") no-repeat center center;
+	background: url("../images/loading.gif") no-repeat center center;
 }
 
 #u14477
@@ -6795,7 +6795,7 @@
 	min-height: 53px;
 	width: 52px;
 	margin: 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/lightbox_arrow1_rollover.png") no-repeat center center;
+	background: transparent url("../images/lightbox_arrow1_rollover.png") no-repeat center center;
 }
 
 #u14579-3popup
@@ -6805,7 +6805,7 @@
 
 .hidpi #u15667:hover,.hidpi #u14475-3:hover,.hidpi #u14515-3:hover,.hidpi #u14579-3:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/lightbox_arrow1_rollover_2x.png");
+	background-image: url("../images/lightbox_arrow1_rollover_2x.png");
 	background-size: 50px 50px;
 }
 
@@ -6833,7 +6833,7 @@
 	min-height: 54px;
 	width: 51px;
 	margin: 0px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/lightbox_arrow_rollover.png") no-repeat center center;
+	background: transparent url("../images/lightbox_arrow_rollover.png") no-repeat center center;
 }
 
 #u14531-3popup
@@ -6843,7 +6843,7 @@
 
 .hidpi #u15675:hover,.hidpi #u14476-3:hover,.hidpi #u14479-3:hover,.hidpi #u14531-3:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/lightbox_arrow_rollover_2x.png");
+	background-image: url("../images/lightbox_arrow_rollover_2x.png");
 	background-size: 50px 50px;
 }
 
@@ -7005,34 +7005,34 @@
 	transform: matrix(-1,0,0,-1,31,31);
 	position: relative;
 	margin-right: -10000px;
-	background: url("https://mattbag.github.io/garagenerd/images/u14420.png") no-repeat 0px 0px;
+	background: url("../images/u14420.png") no-repeat 0px 0px;
 }
 
 #u14420:hover
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u14420-r.png") no-repeat 0px 0px;
+	background: url("../images/u14420-r.png") no-repeat 0px 0px;
 }
 
 #u14420:active
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u14420-m.png") no-repeat 0px 0px;
+	background: url("../images/u14420-m.png") no-repeat 0px 0px;
 }
 
 .hidpi #u14420
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u14420_2x.png");
+	background-image: url("../images/u14420_2x.png");
 	background-size: 31px 31px;
 }
 
 .hidpi #u14420:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u14420-r_2x.png");
+	background-image: url("../images/u14420-r_2x.png");
 	background-size: 31px 31px;
 }
 
 .hidpi #u14420:active
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u14420-m_2x.png");
+	background-image: url("../images/u14420-m_2x.png");
 	background-size: 31px 31px;
 }
 
@@ -7063,34 +7063,34 @@
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	background: url("https://mattbag.github.io/garagenerd/images/u14417.png") no-repeat 0px 0px;
+	background: url("../images/u14417.png") no-repeat 0px 0px;
 }
 
 #u14417:hover
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u14417-r.png") no-repeat 0px 0px;
+	background: url("../images/u14417-r.png") no-repeat 0px 0px;
 }
 
 #u14417:active
 {
-	background: url("https://mattbag.github.io/garagenerd/images/u14417-m.png") no-repeat 0px 0px;
+	background: url("../images/u14417-m.png") no-repeat 0px 0px;
 }
 
 .hidpi #u14417
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u14417_2x.png");
+	background-image: url("../images/u14417_2x.png");
 	background-size: 31px 31px;
 }
 
 .hidpi #u14417:hover
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u14417-r_2x.png");
+	background-image: url("../images/u14417-r_2x.png");
 	background-size: 31px 31px;
 }
 
 .hidpi #u14417:active
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/u14417-m_2x.png");
+	background-image: url("../images/u14417-m_2x.png");
 	background-size: 31px 31px;
 }
 

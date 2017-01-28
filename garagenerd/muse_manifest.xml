@@ -1,0 +1,708 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="garagenerd.yo" resolutions="1x,2x" timestamp="1463201099887">
+  <folder name="css">
+    <file name="site_global.css" crc="306589673"/>
+    <file name="master_1170-grid.css" crc="414136628" ref="shortcodes:index"/>
+    <file name="master_page-master.css" crc="3868668924" ref="confs:about:news:give:shop"/>
+    <file name="master_1170-wo-slider.css" crc="4075296524" ref="church-life:singlepost-with-sidebar:speakers:community-action:full-width-single-post:conferences"/>
+    <file name="shortcodes.css" crc="4129243787" ref="shortcodes"/>
+    <file name="iefonts_shortcodes.css" crc="3961966086" ref="shortcodes"/>
+    <file name="church-life.css" crc="416762584" ref="church-life"/>
+    <file name="iefonts_church-life.css" crc="308265141" ref="church-life"/>
+    <file name="singlepost-with-sidebar.css" crc="4021256297" ref="singlepost-with-sidebar"/>
+    <file name="iefonts_singlepost-with-sidebar.css" crc="502286268" ref="singlepost-with-sidebar"/>
+    <file name="speakers.css" crc="420047322" ref="speakers"/>
+    <file name="iefonts_speakers.css" crc="531397974" ref="speakers"/>
+    <file name="community-action.css" crc="227999732" ref="community-action"/>
+    <file name="iefonts_community-action.css" crc="328399999" ref="community-action"/>
+    <file name="confs.css" crc="44602109" ref="confs"/>
+    <file name="iefonts_confs.css" crc="397725640" ref="confs"/>
+    <file name="index.css" crc="3849499442" ref="index"/>
+    <file name="iefonts_index.css" crc="123058111" ref="index"/>
+    <file name="full-width-single-post.css" crc="464153307" ref="full-width-single-post"/>
+    <file name="iefonts_full-width-single-post.css" crc="3927704419" ref="full-width-single-post"/>
+    <file name="about.css" crc="4220387775" ref="about"/>
+    <file name="iefonts_about.css" crc="4038770906" ref="about"/>
+    <file name="news.css" crc="4037808228" ref="news"/>
+    <file name="iefonts_news.css" crc="406651949" ref="news"/>
+    <file name="give.css" crc="4137539898" ref="give"/>
+    <file name="iefonts_give.css" crc="62083260" ref="give"/>
+    <file name="shop.css" crc="28614965" ref="shop"/>
+    <file name="iefonts_shop.css" crc="3867386041" ref="shop"/>
+    <file name="conferences.css" crc="225776095" ref="conferences"/>
+    <file name="iefonts_conferences.css" crc="4180374803" ref="conferences"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="webpro.js" crc="488283310" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:shortcodes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>home:phone>about:phone>index:tablet>home:tablet>about:tablet>index:index:about:shortcodes:church-life"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="phone>home:phone>sermons:phone>shortcodes:tablet>home:tablet>sermons:tablet>shortcodes:index:confs:shortcodes"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>home:phone>sermons:phone>shortcodes:tablet>home:tablet>sermons:tablet>shortcodes:index:confs:shortcodes"/>
+    <file name="touchswipe.js" crc="4191887251" ref="phone>home:phone>sermons:phone>shortcodes:tablet>home:tablet>sermons:tablet>shortcodes:index:confs:shortcodes"/>
+    <file name="pie.js" crc="3827607177" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="form_check.php" crc="430210585" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="form_throttle.php" crc="282343929" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="form_process.php" crc="339897355" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:phone>index:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="form-u14314.php" crc="3984529844" ref="phone>home:phone>shortcodes"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>home:phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shortcodes:phone>shop:tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:index:about:news:confs:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar:shop"/>
+    <file name="form-u14330.php" crc="3929416624" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="form-u12772.php" crc="3990358914" ref="phone>connect"/>
+    <file name="form-u12891.php" crc="4250056357" ref="phone>give"/>
+    <file name="form-u12874.php" crc="4109048915" ref="phone>give"/>
+    <file name="form-u26579.php" crc="3959975134" ref="phone>index"/>
+    <file name="museredirect.js" crc="3985760531" ref="tablet>home:tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>shortcodes:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop:tablet>index:index:about:news:give:shortcodes:church-life:community-action:speakers:conferences:full-width-single-post:shop"/>
+    <file name="form-u14295.php" crc="4154059800" ref="tablet>home:tablet>shortcodes"/>
+    <file name="form-u14347.php" crc="4098374906" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="form-u6995.php" crc="3814927508" ref="tablet>connect"/>
+    <file name="form-u11166.php" crc="316066684" ref="tablet>give"/>
+    <file name="form-u11126.php" crc="525919630" ref="tablet>give"/>
+    <file name="form-u25833.php" crc="3903134530" ref="tablet>index"/>
+    <file name="form-u2305.php" crc="411461777" ref="index:shortcodes"/>
+    <file name="form-u24880.php" crc="336616974" ref="about:news:confs:give:shop"/>
+    <file name="form-u11187.php" crc="4245766792" ref="give"/>
+    <file name="form-u11208.php" crc="3789533120" ref="give"/>
+    <file name="form-u14363.php" crc="3908663409" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+  </folder>
+  <folder name="images">
+    <file name="1170-grid-favicon.ico" crc="3902785966" ref="phone>home:shortcodes"/>
+    <file name="mobile_menu.png" crc="320076808" ref="phone>home:phone>about"/>
+    <file name="mobile_menu_2x.png" crc="3863654573" ref="phone>home:phone>about"/>
+    <file name="logo_small.png" crc="533489048" ref="phone>home:phone>about:tablet>home:tablet>about:index:about:shortcodes:church-life"/>
+    <file name="logo_small_2x.png" crc="4164764021" ref="phone>home:phone>about:tablet>home:tablet>about:index:about:shortcodes:church-life"/>
+    <file name="logo.png" crc="4249530881" ref="phone>home:phone>about:phone>index:tablet>home:tablet>about:tablet>index:index:about:shortcodes:church-life"/>
+    <file name="logo_2x.png" crc="150062823" ref="phone>home:phone>about:phone>index:tablet>home:tablet>about:tablet>index:index:about:shortcodes:church-life"/>
+    <file name="slide0.jpg" crc="3972615905" seo="true" ref="phone>home:phone>shortcodes:tablet>home:tablet>shortcodes"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>home:phone>shortcodes:tablet>home:tablet>shortcodes:index:shortcodes"/>
+    <file name="slide1.jpg" crc="389740316" seo="true" ref="phone>home:phone>shortcodes:tablet>home:tablet>shortcodes"/>
+    <file name="slide2.jpg" crc="369868420" seo="true" ref="phone>home:phone>shortcodes:tablet>home:tablet>shortcodes"/>
+    <file name="slide3.jpg" crc="287285462" seo="true" ref="phone>home:phone>shortcodes:tablet>home:tablet>shortcodes"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>home:phone>shortcodes:tablet>home:tablet>shortcodes:index:shortcodes"/>
+    <file name="pic2.jpg" crc="410781287" ref="phone>home:tablet>home"/>
+    <file name="pic2_2x.jpg" crc="3989703504" ref="phone>home:tablet>home"/>
+    <file name="pic1.jpg" crc="410781287" ref="phone>home:tablet>home"/>
+    <file name="pic1_2x.jpg" crc="4161574971" ref="phone>home:tablet>home"/>
+    <file name="pic4.jpg" crc="410781287" ref="phone>home:tablet>home"/>
+    <file name="pic4_2x.jpg" crc="4282179023" ref="phone>home:tablet>home"/>
+    <file name="close_button_normal.png" crc="4229699534" ref="phone>home:phone>sermons:tablet>home:tablet>sermons:index:confs"/>
+    <file name="close_button_normal_2x.png" crc="455237367" ref="phone>home:phone>sermons:tablet>home:tablet>sermons:index:confs"/>
+    <file name="close_button_rollover.png" crc="4168588110" ref="phone>home:phone>sermons:tablet>home:tablet>sermons:index:confs"/>
+    <file name="close_button_rollover_2x.png" crc="528147699" ref="phone>home:phone>sermons:tablet>home:tablet>sermons:index:confs"/>
+    <file name="news1.jpg" crc="4224563660" ref="phone>home:tablet>home"/>
+    <file name="news1_2x.jpg" crc="442099405" ref="phone>home:tablet>home"/>
+    <file name="news2.jpg" crc="4224563660" ref="phone>home:tablet>home"/>
+    <file name="news2_2x.jpg" crc="53402139" ref="phone>home:tablet>home"/>
+    <file name="0.png" crc="3838126374" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="0_2x.png" crc="3809339265" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="8.png" crc="533264225" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="8_2x.png" crc="372909645" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="1.png" crc="4186049389" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="1_2x.png" crc="3908506941" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="5.png" crc="154769226" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="5_2x.png" crc="3787257302" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="2.png" crc="59549840" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="2_2x.png" crc="4011892119" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="6.png" crc="325245366" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="6_2x.png" crc="150846670" seo="true" ref="phone>home:tablet>home:index"/>
+    <file name="u14322-17.png" crc="536510372" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17-r.png" crc="94512125" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17-m.png" crc="3829398199" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17-fs.png" crc="536510372" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17_2x.png" crc="296030164" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17-r_2x.png" crc="504226409" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17-m_2x.png" crc="3990920452" ref="phone>home:phone>shortcodes"/>
+    <file name="u14322-17-fs_2x.png" crc="296030164" ref="phone>home:phone>shortcodes"/>
+    <file name="1170-wo-slider-favicon.ico" crc="3902785966" ref="phone>about:church-life"/>
+    <file name="header_image.jpg" crc="4256422279" ref="phone>about:tablet>about:church-life"/>
+    <file name="team2.jpg" crc="4130085125" ref="phone>about:tablet>about:about"/>
+    <file name="team2_2x.jpg" crc="4225744598" ref="phone>about:tablet>about:about"/>
+    <file name="team4.jpg" crc="4096752347" ref="phone>about:tablet>about:about"/>
+    <file name="team4_2x.jpg" crc="4260851987" ref="phone>about:tablet>about:about"/>
+    <file name="team3.jpg" crc="4130085125" ref="phone>about:tablet>about:about"/>
+    <file name="team3_2x.jpg" crc="465885034" ref="phone>about:tablet>about:about"/>
+    <file name="team1.jpg" crc="4130085125" ref="phone>about:tablet>about:about"/>
+    <file name="team1_2x.jpg" crc="505323908" ref="phone>about:tablet>about:about"/>
+    <file name="u14341-17.png" crc="536510372" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17-r.png" crc="94512125" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17-m.png" crc="3829398199" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17-fs.png" crc="536510372" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17_2x.png" crc="296030164" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17-r_2x.png" crc="504226409" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17-m_2x.png" crc="3990920452" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="u14341-17-fs_2x.png" crc="296030164" ref="phone>about:phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:phone>single-post-with-sidebar:phone>full-width-single-post:phone>connect:phone>sermons:phone>give:phone>shop"/>
+    <file name="newspage_1.jpg" crc="204496773" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_1_2x.jpg" crc="478671303" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_6.jpg" crc="204496773" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_6_2x.jpg" crc="84857311" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_2.jpg" crc="204496773" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_2_2x.jpg" crc="208234711" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_3.jpg" crc="204496773" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_3_2x.jpg" crc="88182696" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_4.jpg" crc="204496773" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_4_2x.jpg" crc="4204106383" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_5.jpg" crc="204496773" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="newspage_5_2x.jpg" crc="450377255" ref="phone>news:phone>church-life:phone>community-action:phone>speakers:phone>conferences:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:news:church-life:community-action:speakers:conferences"/>
+    <file name="singlepost-with-sidebar-u13573-fr.jpg" crc="464517375" ref="phone>single-post-with-sidebar:phone>full-width-single-post:tablet>single-post-with-sidebar"/>
+    <file name="singlepost-with-sidebar-u13573-fr_2x.jpg" crc="4242396418" ref="phone>single-post-with-sidebar:phone>full-width-single-post:tablet>single-post-with-sidebar"/>
+    <file name="u12782-17.png" crc="4270360817" ref="phone>connect"/>
+    <file name="u12782-17-r.png" crc="4270360817" ref="phone>connect"/>
+    <file name="u12782-17-m.png" crc="4270360817" ref="phone>connect"/>
+    <file name="u12782-17-fs.png" crc="4270360817" ref="phone>connect"/>
+    <file name="u12782-17_2x.png" crc="4277877429" ref="phone>connect"/>
+    <file name="u12782-17-r_2x.png" crc="4277877429" ref="phone>connect"/>
+    <file name="u12782-17-m_2x.png" crc="4277877429" ref="phone>connect"/>
+    <file name="u12782-17-fs_2x.png" crc="4277877429" ref="phone>connect"/>
+    <file name="image1.jpg" crc="441732740" ref="phone>sermons:phone>shop:tablet>sermons:tablet>shop:confs"/>
+    <file name="image1_2x.jpg" crc="295833413" ref="phone>sermons:phone>shop:tablet>sermons:tablet>shop:confs"/>
+    <file name="image2.jpg" crc="441732740" ref="phone>sermons:tablet>sermons:confs"/>
+    <file name="image2_2x.jpg" crc="3840368295" ref="phone>sermons:tablet>sermons:confs"/>
+    <file name="image3.jpg" crc="441732740" ref="phone>sermons:tablet>sermons:confs"/>
+    <file name="image3_2x.jpg" crc="4159171397" ref="phone>sermons:tablet>sermons:confs"/>
+    <file name="image4.jpg" crc="441732740" ref="phone>sermons:tablet>sermons:confs"/>
+    <file name="image4_2x.jpg" crc="4187350383" ref="phone>sermons:tablet>sermons:confs"/>
+    <file name="u12898-17.png" crc="108386578" ref="phone>give"/>
+    <file name="u12898-17-r.png" crc="3989506394" ref="phone>give"/>
+    <file name="u12898-17-m.png" crc="3989506394" ref="phone>give"/>
+    <file name="u12898-17-fs.png" crc="108386578" ref="phone>give"/>
+    <file name="u12898-17_2x.png" crc="369947220" ref="phone>give"/>
+    <file name="u12898-17-r_2x.png" crc="4261895358" ref="phone>give"/>
+    <file name="u12898-17-m_2x.png" crc="4261895358" ref="phone>give"/>
+    <file name="u12898-17-fs_2x.png" crc="369947220" ref="phone>give"/>
+    <file name="u12885-17.png" crc="4051779203" ref="phone>give"/>
+    <file name="u12885-17-r.png" crc="4160284014" ref="phone>give"/>
+    <file name="u12885-17-m.png" crc="4160284014" ref="phone>give"/>
+    <file name="u12885-17-fs.png" crc="4051779203" ref="phone>give"/>
+    <file name="u12885-17_2x.png" crc="3911647149" ref="phone>give"/>
+    <file name="u12885-17-r_2x.png" crc="327239528" ref="phone>give"/>
+    <file name="u12885-17-m_2x.png" crc="327239528" ref="phone>give"/>
+    <file name="u12885-17-fs_2x.png" crc="3911647149" ref="phone>give"/>
+    <file name="road.jpg" crc="4043139917" seo="true" ref="phone>shortcodes"/>
+    <file name="road_2x.jpg" crc="3849223785" seo="true" ref="phone>shortcodes"/>
+    <file name="cactus.jpg" crc="186761194" seo="true" ref="phone>shortcodes"/>
+    <file name="cactus_2x.jpg" crc="49651113" seo="true" ref="phone>shortcodes"/>
+    <file name="trees.jpg" crc="434378980" seo="true" ref="phone>shortcodes"/>
+    <file name="trees_2x.jpg" crc="3784541122" seo="true" ref="phone>shortcodes"/>
+    <file name="flat_social_icons_g--u14157-fr.png" crc="248534300" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u14157-fr_2x.png" crc="341680481" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u14157-r-fr.png" crc="4255761142" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u14157-r-fr_2x.png" crc="4206180698" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u14160-fr.png" crc="287605064" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u14160-fr_2x.png" crc="3940378693" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u14160-r-fr.png" crc="266125217" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u14160-r-fr_2x.png" crc="394407679" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u14155-fr.png" crc="117029448" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u14155-fr_2x.png" crc="244740372" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u14155-r-fr.png" crc="13142288" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u14155-r-fr_2x.png" crc="4052837303" ref="phone>shortcodes:tablet>shortcodes"/>
+    <file name="image3336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image3336x189_2x.jpg" crc="261075680" seo="true" ref="phone>shortcodes"/>
+    <file name="image5336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image5336x189_2x.jpg" crc="261075680" seo="true" ref="phone>shortcodes"/>
+    <file name="image6336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image6336x189_2x.jpg" crc="261075680" seo="true" ref="phone>shortcodes"/>
+    <file name="image8336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image8336x189_2x.jpg" crc="261075680" seo="true" ref="phone>shortcodes"/>
+    <file name="image3-crop-u15121.jpg" crc="3805325156" ref="phone>shortcodes"/>
+    <file name="image3-crop-u15121_2x.jpg" crc="311557618" ref="phone>shortcodes"/>
+    <file name="image5-crop-u15123.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image5-crop-u15123_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image6-crop-u15125.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image6-crop-u15125_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image8-crop-u15119.jpg" crc="3805325156" ref="phone>shortcodes"/>
+    <file name="image8-crop-u15119_2x.jpg" crc="311557618" ref="phone>shortcodes"/>
+    <file name="lightbox_arrow1_normal.png" crc="212536212" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow1_normal_2x.png" crc="4061589304" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow1_rollover.png" crc="4023251114" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow1_rollover_2x.png" crc="3986868003" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow_normal.png" crc="102577013" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow_normal_2x.png" crc="4008421389" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow_rollover.png" crc="33028235" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="lightbox_arrow_rollover_2x.png" crc="16022968" ref="phone>shortcodes:tablet>shortcodes:shortcodes"/>
+    <file name="image4336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image4336x189_2x.jpg" crc="4114491712" seo="true" ref="phone>shortcodes"/>
+    <file name="image7336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image7336x189_2x.jpg" crc="4114491712" seo="true" ref="phone>shortcodes"/>
+    <file name="image3-crop-u15082.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image3-crop-u15082_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image4-crop-u15080.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image4-crop-u15080_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image7-crop-u15086.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image7-crop-u15086_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image8-crop-u15084.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image8-crop-u15084_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image1336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image1336x189_2x.jpg" crc="261075680" seo="true" ref="phone>shortcodes"/>
+    <file name="image2336x189.jpg" crc="4154462127" seo="true" ref="phone>shortcodes"/>
+    <file name="image2336x189_2x.jpg" crc="261075680" seo="true" ref="phone>shortcodes"/>
+    <file name="image1-crop-u15149.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image1-crop-u15149_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image2-crop-u15147.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image2-crop-u15147_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image5-crop-u15151.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image5-crop-u15151_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="image6-crop-u15145.jpg" crc="533016107" ref="phone>shortcodes"/>
+    <file name="image6-crop-u15145_2x.jpg" crc="3980517795" ref="phone>shortcodes"/>
+    <file name="u15168.png" crc="3900845324" ref="phone>shortcodes"/>
+    <file name="u15168-r.png" crc="4016268042" ref="phone>shortcodes"/>
+    <file name="u15168-m.png" crc="342130816" ref="phone>shortcodes"/>
+    <file name="u15168_2x.png" crc="178434394" ref="phone>shortcodes"/>
+    <file name="u15168-r_2x.png" crc="283197610" ref="phone>shortcodes"/>
+    <file name="u15168-m_2x.png" crc="521750647" ref="phone>shortcodes"/>
+    <file name="u15171.png" crc="3900845324" ref="phone>shortcodes"/>
+    <file name="u15171-r.png" crc="4016268042" ref="phone>shortcodes"/>
+    <file name="u15171-m.png" crc="342130816" ref="phone>shortcodes"/>
+    <file name="u15171_2x.png" crc="178434394" ref="phone>shortcodes"/>
+    <file name="u15171-r_2x.png" crc="283197610" ref="phone>shortcodes"/>
+    <file name="u15171-m_2x.png" crc="521750647" ref="phone>shortcodes"/>
+    <file name="foot-favicon.ico" crc="3902785966" ref="phone>index"/>
+    <file name="nerd-band.png" crc="19394190" ref="phone>index:tablet>index"/>
+    <file name="u26591-17.png" crc="536510372" ref="phone>index"/>
+    <file name="u26591-17-r.png" crc="94512125" ref="phone>index"/>
+    <file name="u26591-17-m.png" crc="3829398199" ref="phone>index"/>
+    <file name="u26591-17-fs.png" crc="536510372" ref="phone>index"/>
+    <file name="u26591-17_2x.png" crc="296030164" ref="phone>index"/>
+    <file name="u26591-17-r_2x.png" crc="504226409" ref="phone>index"/>
+    <file name="u26591-17-m_2x.png" crc="3990920452" ref="phone>index"/>
+    <file name="u26591-17-fs_2x.png" crc="296030164" ref="phone>index"/>
+    <file name="tablet_menu.png" crc="312714932" ref="tablet>home:tablet>about"/>
+    <file name="tablet_menu_2x.png" crc="3869749001" ref="tablet>home:tablet>about"/>
+    <file name="u14297-17.png" crc="536510372" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17-r.png" crc="94512125" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17-m.png" crc="3829398199" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17-fs.png" crc="536510372" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17_2x.png" crc="296030164" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17-r_2x.png" crc="504226409" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17-m_2x.png" crc="3990920452" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14297-17-fs_2x.png" crc="296030164" ref="tablet>home:tablet>shortcodes"/>
+    <file name="u14354-17.png" crc="536510372" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17-r.png" crc="94512125" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17-m.png" crc="3829398199" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17-fs.png" crc="536510372" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17_2x.png" crc="296030164" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17-r_2x.png" crc="504226409" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17-m_2x.png" crc="3990920452" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u14354-17-fs_2x.png" crc="296030164" ref="tablet>about:tablet>news:tablet>church-life:tablet>community-action:tablet>speakers:tablet>conferences:tablet>connect:tablet>sermons:tablet>give:tablet>single-post-with-sidebar:tablet>full-width-single-post:tablet>shop"/>
+    <file name="u7004-17.png" crc="4270360817" ref="tablet>connect"/>
+    <file name="u7004-17-r.png" crc="4270360817" ref="tablet>connect"/>
+    <file name="u7004-17-m.png" crc="4270360817" ref="tablet>connect"/>
+    <file name="u7004-17-fs.png" crc="4270360817" ref="tablet>connect"/>
+    <file name="u7004-17_2x.png" crc="4277877429" ref="tablet>connect"/>
+    <file name="u7004-17-r_2x.png" crc="4277877429" ref="tablet>connect"/>
+    <file name="u7004-17-m_2x.png" crc="4277877429" ref="tablet>connect"/>
+    <file name="u7004-17-fs_2x.png" crc="4277877429" ref="tablet>connect"/>
+    <file name="u11181-17.png" crc="108386578" ref="tablet>give"/>
+    <file name="u11181-17-r.png" crc="3989506394" ref="tablet>give"/>
+    <file name="u11181-17-m.png" crc="3989506394" ref="tablet>give"/>
+    <file name="u11181-17-fs.png" crc="108386578" ref="tablet>give"/>
+    <file name="u11181-17_2x.png" crc="369947220" ref="tablet>give"/>
+    <file name="u11181-17-r_2x.png" crc="4261895358" ref="tablet>give"/>
+    <file name="u11181-17-m_2x.png" crc="4261895358" ref="tablet>give"/>
+    <file name="u11181-17-fs_2x.png" crc="369947220" ref="tablet>give"/>
+    <file name="u11141-17.png" crc="4051779203" ref="tablet>give"/>
+    <file name="u11141-17-r.png" crc="4160284014" ref="tablet>give"/>
+    <file name="u11141-17-m.png" crc="4160284014" ref="tablet>give"/>
+    <file name="u11141-17-fs.png" crc="4051779203" ref="tablet>give"/>
+    <file name="u11141-17_2x.png" crc="3911647149" ref="tablet>give"/>
+    <file name="u11141-17-r_2x.png" crc="327239528" ref="tablet>give"/>
+    <file name="u11141-17-m_2x.png" crc="327239528" ref="tablet>give"/>
+    <file name="u11141-17-fs_2x.png" crc="3911647149" ref="tablet>give"/>
+    <file name="road144x96.jpg" crc="4183724669" seo="true" ref="tablet>shortcodes:shortcodes"/>
+    <file name="road144x96_2x.jpg" crc="508887741" seo="true" ref="tablet>shortcodes:shortcodes"/>
+    <file name="cactus151x101.jpg" crc="73927727" seo="true" ref="tablet>shortcodes:shortcodes"/>
+    <file name="cactus151x101_2x.jpg" crc="4000098046" seo="true" ref="tablet>shortcodes:shortcodes"/>
+    <file name="trees134x89.jpg" crc="271198079" seo="true" ref="tablet>shortcodes:shortcodes"/>
+    <file name="trees134x89_2x.jpg" crc="136951658" seo="true" ref="tablet>shortcodes:shortcodes"/>
+    <file name="flat_social_icons_facebook-u6803-fr.png" crc="4079099604" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u6803-fr_2x.png" crc="3970394909" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u6803-r-fr.png" crc="3857113818" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_facebook-u6803-r-fr_2x.png" crc="63496321" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u6796-fr.png" crc="371690386" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u6796-fr_2x.png" crc="94460749" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u6796-r-fr.png" crc="287860841" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_g--u6796-r-fr_2x.png" crc="4059043727" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u6799-fr.png" crc="512751219" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u6799-fr_2x.png" crc="459427596" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u6799-r-fr.png" crc="9620609" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_tumbler-u6799-r-fr_2x.png" crc="266286081" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_instagram-u6809-fr.png" crc="392667252" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_instagram-u6809-fr_2x.png" crc="3780472199" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_instagram-u6809-r-fr.png" crc="312918480" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_instagram-u6809-r-fr_2x.png" crc="139121121" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_skype-u6807-fr.png" crc="327980947" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_skype-u6807-fr_2x.png" crc="4050640296" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_skype-u6807-r-fr.png" crc="102107393" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_skype-u6807-r-fr_2x.png" crc="497587974" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_twitter-u6808-fr.png" crc="3794884794" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_twitter-u6808-fr_2x.png" crc="195253673" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_twitter-u6808-r-fr.png" crc="263657329" ref="tablet>shortcodes"/>
+    <file name="flat_social_icons_twitter-u6808-r-fr_2x.png" crc="4061005845" ref="tablet>shortcodes"/>
+    <file name="image3723x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image5723x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image6723x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image8723x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image3-crop-u14924.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image3-crop-u14924_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image5-crop-u14930.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image5-crop-u14930_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image6-crop-u14922.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image6-crop-u14922_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image8-crop-u14934.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image8-crop-u14934_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image3724x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image4724x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image7724x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image8724x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image3-crop-u14966.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image3-crop-u14966_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image4-crop-u14960.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image4-crop-u14960_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image7-crop-u14972.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image7-crop-u14972_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image8-crop-u14970.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image8-crop-u14970_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image1723x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image2723x407.jpg" crc="3768597806" seo="true" ref="tablet>shortcodes"/>
+    <file name="image1-crop-u14876.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image1-crop-u14876_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image2-crop-u14868.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image2-crop-u14868_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image5-crop-u14874.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image5-crop-u14874_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="image6-crop-u14864.jpg" crc="437530189" ref="tablet>shortcodes"/>
+    <file name="image6-crop-u14864_2x.jpg" crc="523185055" ref="tablet>shortcodes"/>
+    <file name="u14847.png" crc="3900845324" ref="tablet>shortcodes"/>
+    <file name="u14847-r.png" crc="4016268042" ref="tablet>shortcodes"/>
+    <file name="u14847-m.png" crc="342130816" ref="tablet>shortcodes"/>
+    <file name="u14847_2x.png" crc="178434394" ref="tablet>shortcodes"/>
+    <file name="u14847-r_2x.png" crc="283197610" ref="tablet>shortcodes"/>
+    <file name="u14847-m_2x.png" crc="521750647" ref="tablet>shortcodes"/>
+    <file name="u14844.png" crc="3900845324" ref="tablet>shortcodes"/>
+    <file name="u14844-r.png" crc="4016268042" ref="tablet>shortcodes"/>
+    <file name="u14844-m.png" crc="342130816" ref="tablet>shortcodes"/>
+    <file name="u14844_2x.png" crc="178434394" ref="tablet>shortcodes"/>
+    <file name="u14844-r_2x.png" crc="283197610" ref="tablet>shortcodes"/>
+    <file name="u14844-m_2x.png" crc="521750647" ref="tablet>shortcodes"/>
+    <file name="singpost-fullwidth-u10962-fr.jpg" crc="4103248737" ref="tablet>full-width-single-post"/>
+    <file name="singpost-fullwidth-u10962-fr_2x.jpg" crc="24212430" ref="tablet>full-width-single-post"/>
+    <file name="footer-favicon.ico" crc="3902785966" ref="tablet>index"/>
+    <file name="u25845-17.png" crc="536510372" ref="tablet>index"/>
+    <file name="u25845-17-r.png" crc="94512125" ref="tablet>index"/>
+    <file name="u25845-17-m.png" crc="3829398199" ref="tablet>index"/>
+    <file name="u25845-17-fs.png" crc="536510372" ref="tablet>index"/>
+    <file name="u25845-17_2x.png" crc="296030164" ref="tablet>index"/>
+    <file name="u25845-17-r_2x.png" crc="504226409" ref="tablet>index"/>
+    <file name="u25845-17-m_2x.png" crc="3990920452" ref="tablet>index"/>
+    <file name="u25845-17-fs_2x.png" crc="296030164" ref="tablet>index"/>
+    <file name="home-favicon.ico" crc="3902785966" ref="index"/>
+    <file name="nerd-band2.png" crc="287926835" ref="index:about"/>
+    <file name="nerd-band_2x.png" crc="19394190" ref="index:about"/>
+    <file name="logo-type.png" crc="3818313445" seo="true" ref="phone>index:tablet>index"/>
+    <file name="logo-type_2x.png" crc="4127838756" seo="true" ref="phone>index:tablet>index"/>
+    <file name="bikes-cover.jpg" crc="4170757433" seo="true" ref="index:shortcodes"/>
+    <file name="extreme-cover.jpg" crc="278674981" seo="true" ref="index:shortcodes"/>
+    <file name="out-cover.jpg" crc="172543380" seo="true" ref="index:shortcodes"/>
+    <file name="recoblog-cover.jpg" crc="3944924548" seo="true" ref="index:shortcodes"/>
+    <file name="shirts-cover.jpg" crc="3990717618" seo="true" ref="index:shortcodes"/>
+    <file name="slider_arrow_2.png" crc="4149325679" ref="index:shortcodes"/>
+    <file name="slider_arrow_2_2x.png" crc="4230274182" ref="index:shortcodes"/>
+    <file name="slider_arrow_1.png" crc="4025709865" ref="index:shortcodes"/>
+    <file name="slider_arrow_1_2x.png" crc="4284928446" ref="index:shortcodes"/>
+    <file name="nerd-band-u15956-fr.png" crc="4064192056" ref="index:about"/>
+    <file name="nerd-band-u15956-fr_2x.png" crc="358973051" ref="index:about"/>
+    <file name="filmfest.jpg" crc="4135572577" ref="index"/>
+    <file name="antique-cover.jpg" crc="47721645" ref="index"/>
+    <file name="pizzeria-cover.jpg" crc="4291188462" ref="index"/>
+    <file name="silicon-cop-u1411-fr.jpg" crc="4136305429" ref="index"/>
+    <file name="silicon-cop-u1411-fr_2x.jpg" crc="4058547355" ref="index"/>
+    <file name="unanottedaacul.jpg" crc="3888078727" ref="index"/>
+    <file name="unanottedaacul_2x.jpg" crc="300000645" ref="index"/>
+    <file name="u2308-17.png" crc="536510372" ref="index:shortcodes"/>
+    <file name="u2308-17-r.png" crc="94512125" ref="index:shortcodes"/>
+    <file name="u2308-17-m.png" crc="3829398199" ref="index:shortcodes"/>
+    <file name="u2308-17-fs.png" crc="536510372" ref="index:shortcodes"/>
+    <file name="u2308-17_2x.png" crc="296030164" ref="index:shortcodes"/>
+    <file name="u2308-17-r_2x.png" crc="504226409" ref="index:shortcodes"/>
+    <file name="u2308-17-m_2x.png" crc="3990920452" ref="index:shortcodes"/>
+    <file name="u2308-17-fs_2x.png" crc="296030164" ref="index:shortcodes"/>
+    <file name="page-master-favicon.ico" crc="3902785966" ref="about"/>
+    <file name="silicon-cop.jpg" crc="400705427" ref="about"/>
+    <file name="u24885-17.png" crc="536510372" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17-r.png" crc="94512125" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17-m.png" crc="3829398199" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17-fs.png" crc="536510372" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17_2x.png" crc="296030164" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17-r_2x.png" crc="504226409" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17-m_2x.png" crc="3990920452" ref="about:news:confs:give:shop"/>
+    <file name="u24885-17-fs_2x.png" crc="296030164" ref="about:news:confs:give:shop"/>
+    <file name="u11203-17.png" crc="108386578" ref="give"/>
+    <file name="u11203-17-r.png" crc="3989506394" ref="give"/>
+    <file name="u11203-17-m.png" crc="3989506394" ref="give"/>
+    <file name="u11203-17-fs.png" crc="108386578" ref="give"/>
+    <file name="u11203-17_2x.png" crc="369947220" ref="give"/>
+    <file name="u11203-17-r_2x.png" crc="4261895358" ref="give"/>
+    <file name="u11203-17-m_2x.png" crc="4261895358" ref="give"/>
+    <file name="u11203-17-fs_2x.png" crc="369947220" ref="give"/>
+    <file name="u11217-17.png" crc="4051779203" ref="give"/>
+    <file name="u11217-17-r.png" crc="4160284014" ref="give"/>
+    <file name="u11217-17-m.png" crc="4160284014" ref="give"/>
+    <file name="u11217-17-fs.png" crc="4051779203" ref="give"/>
+    <file name="u11217-17_2x.png" crc="3911647149" ref="give"/>
+    <file name="u11217-17-r_2x.png" crc="327239528" ref="give"/>
+    <file name="u11217-17-m_2x.png" crc="327239528" ref="give"/>
+    <file name="u11217-17-fs_2x.png" crc="3911647149" ref="give"/>
+    <file name="image12.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image22.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image32.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image42.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image5.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image7.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image6.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image8.jpg" crc="4110807285" seo="true" ref="shortcodes"/>
+    <file name="image1-crop-u14435.jpg" crc="108821135" ref="shortcodes"/>
+    <file name="image1-crop-u14435_2x.jpg" crc="259289835" ref="shortcodes"/>
+    <file name="image2-crop-u14447.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image2-crop-u14447_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image3-crop-u14443.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image3-crop-u14443_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image4-crop-u14445.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image4-crop-u14445_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image5-crop-u14437.jpg" crc="108821135" ref="shortcodes"/>
+    <file name="image5-crop-u14437_2x.jpg" crc="259289835" ref="shortcodes"/>
+    <file name="image7-crop-u14433.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image7-crop-u14433_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image6-crop-u14441.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image6-crop-u14441_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image8-crop-u14439.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image8-crop-u14439_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image1-crop-u14507.jpg" crc="108821135" ref="shortcodes"/>
+    <file name="image1-crop-u14507_2x.jpg" crc="259289835" ref="shortcodes"/>
+    <file name="image2-crop-u14511.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image2-crop-u14511_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image3-crop-u14499.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image3-crop-u14499_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image4-crop-u14503.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image4-crop-u14503_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image5-crop-u14513.jpg" crc="108821135" ref="shortcodes"/>
+    <file name="image5-crop-u14513_2x.jpg" crc="259289835" ref="shortcodes"/>
+    <file name="image7-crop-u14509.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image7-crop-u14509_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image6-crop-u14501.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image6-crop-u14501_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image8-crop-u14505.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image8-crop-u14505_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image1-crop-u14575.jpg" crc="108821135" ref="shortcodes"/>
+    <file name="image1-crop-u14575_2x.jpg" crc="259289835" ref="shortcodes"/>
+    <file name="image2-crop-u14565.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image2-crop-u14565_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image3-crop-u14567.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image3-crop-u14567_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image4-crop-u14573.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image4-crop-u14573_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image5-crop-u14577.jpg" crc="108821135" ref="shortcodes"/>
+    <file name="image5-crop-u14577_2x.jpg" crc="259289835" ref="shortcodes"/>
+    <file name="image7-crop-u14569.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image7-crop-u14569_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="image6-crop-u14563.jpg" crc="4109194674" ref="shortcodes"/>
+    <file name="image6-crop-u14563_2x.jpg" crc="4078556881" ref="shortcodes"/>
+    <file name="image8-crop-u14571.jpg" crc="483481033" ref="shortcodes"/>
+    <file name="image8-crop-u14571_2x.jpg" crc="353311036" ref="shortcodes"/>
+    <file name="u14420.png" crc="3900845324" ref="shortcodes"/>
+    <file name="u14420-r.png" crc="4016268042" ref="shortcodes"/>
+    <file name="u14420-m.png" crc="342130816" ref="shortcodes"/>
+    <file name="u14420_2x.png" crc="178434394" ref="shortcodes"/>
+    <file name="u14420-r_2x.png" crc="283197610" ref="shortcodes"/>
+    <file name="u14420-m_2x.png" crc="521750647" ref="shortcodes"/>
+    <file name="u14417.png" crc="3900845324" ref="shortcodes"/>
+    <file name="u14417-r.png" crc="4016268042" ref="shortcodes"/>
+    <file name="u14417-m.png" crc="342130816" ref="shortcodes"/>
+    <file name="u14417_2x.png" crc="178434394" ref="shortcodes"/>
+    <file name="u14417-r_2x.png" crc="283197610" ref="shortcodes"/>
+    <file name="u14417-m_2x.png" crc="521750647" ref="shortcodes"/>
+    <file name="u14364-17.png" crc="536510372" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17-r.png" crc="94512125" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17-m.png" crc="3829398199" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17-fs.png" crc="536510372" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17_2x.png" crc="296030164" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17-r_2x.png" crc="504226409" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17-m_2x.png" crc="3990920452" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="u14364-17-fs_2x.png" crc="296030164" ref="church-life:community-action:speakers:conferences:full-width-single-post:singlepost-with-sidebar"/>
+    <file name="singpost-fullwidth.jpg" crc="349100120" ref="full-width-single-post"/>
+    <file name="singpost-fullwidth_2x.jpg" crc="4283253836" ref="full-width-single-post"/>
+    <file name="singlepost-with-sidebar.jpg" crc="4144646707" ref="singlepost-with-sidebar"/>
+    <file name="singlepost-with-sidebar_2x.jpg" crc="3814051725" ref="singlepost-with-sidebar"/>
+    <file name="out-cover267x200.jpg" crc="4145334296" seo="true" ref="shop"/>
+    <file name="out-cover267x200_2x.jpg" crc="4120938568" seo="true" ref="shop"/>
+    <file name="easyshirt-cover.jpg" crc="59421664" seo="true" ref="shop"/>
+    <file name="easyshirt-cover_2x.jpg" crc="4040255449" seo="true" ref="shop"/>
+    <file name="shirts-cover264x198.jpg" crc="288318411" seo="true" ref="shop"/>
+    <file name="shirts-cover264x198_2x.jpg" crc="3933731496" seo="true" ref="shop"/>
+    <file name="extreme-cover267x201.jpg" crc="3808349798" seo="true" ref="shop"/>
+    <file name="extreme-cover267x201_2x.jpg" crc="440575258" seo="true" ref="shop"/>
+    <file name="bikes-cover265x199.jpg" crc="310544226" seo="true" ref="shop"/>
+    <file name="bikes-cover265x199_2x.jpg" crc="3932437897" seo="true" ref="shop"/>
+    <file name="recoblog-cover264x198.jpg" crc="4224326088" seo="true" ref="shop"/>
+    <file name="recoblog-cover264x198_2x.jpg" crc="4073411418" seo="true" ref="shop"/>
+    <file name="wiselic.jpg" crc="4241998631" seo="true" ref="shop"/>
+    <file name="lwall1.jpg" crc="215991565" seo="true" ref="shop"/>
+    <file name="lwall1_2x.jpg" crc="4170638339" seo="true" ref="shop"/>
+    <file name="logo-type210x46.png" crc="4270317684" seo="true" ref="index"/>
+    <file name="logo-type210x46_2x.png" crc="4127838756" seo="true" ref="index"/>
+    <file name="flat_social_icons_g--u3818-fr.png" crc="248534300" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3818-fr_2x.png" crc="341680481" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3818-r-fr.png" crc="4255761142" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3818-r-fr_2x.png" crc="4206180698" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3820-fr.png" crc="287605064" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3820-fr_2x.png" crc="3940378693" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3820-r-fr.png" crc="266125217" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3820-r-fr_2x.png" crc="394407679" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3819-fr.png" crc="117029448" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3819-fr_2x.png" crc="244740372" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3819-r-fr.png" crc="13142288" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3819-r-fr_2x.png" crc="4052837303" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3758-fr.png" crc="371690386" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3758-fr_2x.png" crc="94460749" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3758-r-fr.png" crc="287860841" ref="shortcodes"/>
+    <file name="flat_social_icons_g--u3758-r-fr_2x.png" crc="4059043727" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3771-fr.png" crc="512751219" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3771-fr_2x.png" crc="459427596" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3771-r-fr.png" crc="9620609" ref="shortcodes"/>
+    <file name="flat_social_icons_tumbler-u3771-r-fr_2x.png" crc="266286081" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3772-fr.png" crc="4079099604" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3772-fr_2x.png" crc="3970394909" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3772-r-fr.png" crc="3857113818" ref="shortcodes"/>
+    <file name="flat_social_icons_facebook-u3772-r-fr_2x.png" crc="63496321" ref="shortcodes"/>
+    <file name="flat_social_icons_twitter-u3786-fr.png" crc="3794884794" ref="shortcodes"/>
+    <file name="flat_social_icons_twitter-u3786-fr_2x.png" crc="195253673" ref="shortcodes"/>
+    <file name="flat_social_icons_twitter-u3786-r-fr.png" crc="263657329" ref="shortcodes"/>
+    <file name="flat_social_icons_twitter-u3786-r-fr_2x.png" crc="4061005845" ref="shortcodes"/>
+    <file name="flat_social_icons_skype-u3773-fr.png" crc="327980947" ref="shortcodes"/>
+    <file name="flat_social_icons_skype-u3773-fr_2x.png" crc="4050640296" ref="shortcodes"/>
+    <file name="flat_social_icons_skype-u3773-r-fr.png" crc="102107393" ref="shortcodes"/>
+    <file name="flat_social_icons_skype-u3773-r-fr_2x.png" crc="497587974" ref="shortcodes"/>
+    <file name="flat_social_icons_instagram-u3799-fr.png" crc="392667252" ref="shortcodes"/>
+    <file name="flat_social_icons_instagram-u3799-fr_2x.png" crc="3780472199" ref="shortcodes"/>
+    <file name="flat_social_icons_instagram-u3799-r-fr.png" crc="312918480" ref="shortcodes"/>
+    <file name="flat_social_icons_instagram-u3799-r-fr_2x.png" crc="139121121" ref="shortcodes"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_footer.css" crc="4085014291" ref="tablet>index"/>
+      <file name="master_1170-wo-slider.css" crc="3910509532" ref="tablet>speakers:tablet>news:tablet>give:tablet>single-post-with-sidebar:tablet>about:tablet>shop:tablet>conferences:tablet>church-life:tablet>community-action:tablet>full-width-single-post:tablet>sermons:tablet>connect"/>
+      <file name="master_1170-grid.css" crc="295254399" ref="tablet>shortcodes:tablet>home"/>
+      <file name="speakers.css" crc="3817525643" ref="tablet>speakers"/>
+      <file name="iefonts_speakers.css" crc="377000026" ref="tablet>speakers"/>
+      <file name="news.css" crc="4219197307" ref="tablet>news"/>
+      <file name="iefonts_news.css" crc="3790350171" ref="tablet>news"/>
+      <file name="give.css" crc="296104368" ref="tablet>give"/>
+      <file name="iefonts_give.css" crc="3855126010" ref="tablet>give"/>
+      <file name="single-post-with-sidebar.css" crc="142409551" ref="tablet>single-post-with-sidebar"/>
+      <file name="iefonts_single-post-with-sidebar.css" crc="4063343087" ref="tablet>single-post-with-sidebar"/>
+      <file name="index.css" crc="4229221039" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="140052625" ref="tablet>index"/>
+      <file name="about.css" crc="4224862808" ref="tablet>about"/>
+      <file name="iefonts_about.css" crc="4044869732" ref="tablet>about"/>
+      <file name="shop.css" crc="348560999" ref="tablet>shop"/>
+      <file name="iefonts_shop.css" crc="4226700091" ref="tablet>shop"/>
+      <file name="conferences.css" crc="12237589" ref="tablet>conferences"/>
+      <file name="iefonts_conferences.css" crc="3795808694" ref="tablet>conferences"/>
+      <file name="church-life.css" crc="143907657" ref="tablet>church-life"/>
+      <file name="iefonts_church-life.css" crc="4232684152" ref="tablet>church-life"/>
+      <file name="shortcodes.css" crc="57665272" ref="tablet>shortcodes"/>
+      <file name="iefonts_shortcodes.css" crc="4057774423" ref="tablet>shortcodes"/>
+      <file name="home.css" crc="4026048182" ref="tablet>home"/>
+      <file name="iefonts_home.css" crc="235768623" ref="tablet>home"/>
+      <file name="community-action.css" crc="4152638497" ref="tablet>community-action"/>
+      <file name="iefonts_community-action.css" crc="3954051228" ref="tablet>community-action"/>
+      <file name="full-width-single-post.css" crc="4268905493" ref="tablet>full-width-single-post"/>
+      <file name="iefonts_full-width-single-post.css" crc="4109810159" ref="tablet>full-width-single-post"/>
+      <file name="sermons.css" crc="189455996" ref="tablet>sermons"/>
+      <file name="iefonts_sermons.css" crc="190133800" ref="tablet>sermons"/>
+      <file name="connect.css" crc="4123374538" ref="tablet>connect"/>
+      <file name="iefonts_connect.css" crc="477317437" ref="tablet>connect"/>
+    </folder>
+    <file name="home.html" crc="421509009" seo="true" mt="1463195726779" redirect="true"/>
+    <file name="about.html" crc="207891776" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="news.html" crc="525533484" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="church-life.html" crc="3968674895" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="community-action.html" crc="4204521693" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="speakers.html" crc="313530884" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="conferences.html" crc="240272998" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="connect.html" crc="4005881559" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="sermons.html" crc="3904707297" seo="true" mt="1463196275386" redirect="true"/>
+    <file name="give.html" crc="4032853087" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="shortcodes.html" crc="48914821" seo="true" mt="1463194008124" redirect="true"/>
+    <file name="single-post-with-sidebar.html" crc="4185288637" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="full-width-single-post.html" crc="413364435" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="shop.html" crc="177006017" seo="true" mt="1463194008150" redirect="true"/>
+    <file name="index.html" crc="3854054913" seo="true" mt="1463200811187" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_foot.css" crc="4218642592" ref="phone>index"/>
+      <file name="master_1170-wo-slider.css" crc="153302246" ref="phone>single-post-with-sidebar:phone>conferences:phone>church-life:phone>community-action:phone>news:phone>shop:phone>give:phone>full-width-single-post:phone>speakers:phone>sermons:phone>connect:phone>about"/>
+      <file name="master_1170-grid.css" crc="227097049" ref="phone>shortcodes:phone>home"/>
+      <file name="single-post-with-sidebar.css" crc="352267432" ref="phone>single-post-with-sidebar"/>
+      <file name="iefonts_single-post-with-sidebar.css" crc="3973180101" ref="phone>single-post-with-sidebar"/>
+      <file name="conferences.css" crc="4239085" ref="phone>conferences"/>
+      <file name="iefonts_conferences.css" crc="3988669357" ref="phone>conferences"/>
+      <file name="church-life.css" crc="248174367" ref="phone>church-life"/>
+      <file name="iefonts_church-life.css" crc="249266685" ref="phone>church-life"/>
+      <file name="community-action.css" crc="3976345088" ref="phone>community-action"/>
+      <file name="iefonts_community-action.css" crc="270850590" ref="phone>community-action"/>
+      <file name="news.css" crc="157581354" ref="phone>news"/>
+      <file name="iefonts_news.css" crc="4140330597" ref="phone>news"/>
+      <file name="shortcodes.css" crc="3979279551" ref="phone>shortcodes"/>
+      <file name="iefonts_shortcodes.css" crc="245747408" ref="phone>shortcodes"/>
+      <file name="shop.css" crc="182760557" ref="phone>shop"/>
+      <file name="iefonts_shop.css" crc="494768771" ref="phone>shop"/>
+      <file name="home.css" crc="346583509" ref="phone>home"/>
+      <file name="iefonts_home.css" crc="3956855538" ref="phone>home"/>
+      <file name="give.css" crc="4178081535" ref="phone>give"/>
+      <file name="iefonts_give.css" crc="3789273679" ref="phone>give"/>
+      <file name="full-width-single-post.css" crc="4205405232" ref="phone>full-width-single-post"/>
+      <file name="iefonts_full-width-single-post.css" crc="3934899539" ref="phone>full-width-single-post"/>
+      <file name="speakers.css" crc="455267755" ref="phone>speakers"/>
+      <file name="iefonts_speakers.css" crc="3942286067" ref="phone>speakers"/>
+      <file name="sermons.css" crc="351988229" ref="phone>sermons"/>
+      <file name="iefonts_sermons.css" crc="321491272" ref="phone>sermons"/>
+      <file name="connect.css" crc="224009744" ref="phone>connect"/>
+      <file name="iefonts_connect.css" crc="518843063" ref="phone>connect"/>
+      <file name="about.css" crc="438775120" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="3905090749" ref="phone>about"/>
+      <file name="index.css" crc="3912872250" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="2849224" ref="phone>index"/>
+    </folder>
+    <file name="home.html" crc="69205714" seo="true" mt="1463195726790" redirect="true"/>
+    <file name="about.html" crc="3820123787" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="news.html" crc="4055320891" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="church-life.html" crc="3759158578" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="community-action.html" crc="163398093" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="speakers.html" crc="191676868" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="conferences.html" crc="474408756" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="single-post-with-sidebar.html" crc="4079380573" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="full-width-single-post.html" crc="4007785537" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="connect.html" crc="4172147843" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="sermons.html" crc="301326257" seo="true" mt="1463196275390" redirect="true"/>
+    <file name="give.html" crc="3787426957" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="shortcodes.html" crc="3928532014" seo="true" mt="1463194008153" redirect="true"/>
+    <file name="shop.html" crc="205163448" seo="true" mt="1463194008158" redirect="true"/>
+    <file name="index.html" crc="3795269389" seo="true" mt="1463200831297" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4121766709" seo="true" mt="1463200996828" redirect="true"/>
+  <file name="about.html" crc="211107074" seo="true" mt="1463201001632" redirect="true"/>
+  <file name="news.html" crc="4030606434" seo="true" mt="1463201001632" redirect="true"/>
+  <file name="confs.html" crc="39889026" seo="true" mt="1463201001632" redirect="true"/>
+  <file name="give.html" crc="63977006" seo="true" mt="1463201001632" redirect="true"/>
+  <file name="shortcodes.html" crc="252809450" seo="true" mt="1463200996828" redirect="true"/>
+  <file name="church-life.html" crc="4131541155" seo="true" mt="1463200618415" redirect="true"/>
+  <file name="community-action.html" crc="269611396" seo="true" mt="1463200618415" redirect="true"/>
+  <file name="speakers.html" crc="10485930" seo="true" mt="1463200618415" redirect="true"/>
+  <file name="conferences.html" crc="4080036689" seo="true" mt="1463200618415" redirect="true"/>
+  <file name="full-width-single-post.html" crc="4277619388" seo="true" mt="1463200618415" redirect="true"/>
+  <file name="singlepost-with-sidebar.html" crc="224553128" seo="true" mt="1463200618415" redirect="true"/>
+  <file name="shop.html" crc="195722112" seo="true" mt="1463201001632" redirect="true"/>
+</manifest>

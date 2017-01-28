@@ -542,7 +542,7 @@
 	border-color: transparent;
 	padding-bottom: 24px;
 	position: relative;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/filmfest.jpg") no-repeat center center;
+	background: transparent url("../images/filmfest.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -644,7 +644,7 @@
 	border-color: transparent;
 	padding-bottom: 24px;
 	position: relative;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/antique-cover.jpg") no-repeat center center;
+	background: transparent url("../images/antique-cover.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -742,7 +742,7 @@
 	border-color: transparent;
 	padding-bottom: 24px;
 	position: relative;
-	background: #0F1F33 url("https://mattbag.github.io/garagenerd/images/pizzeria-cover.jpg") no-repeat center center;
+	background: #0F1F33 url("../images/pizzeria-cover.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1034,7 +1034,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/silicon-cop-u1411-fr.jpg") no-repeat center top;
+	background: transparent url("../images/silicon-cop-u1411-fr.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -1053,7 +1053,7 @@
 
 .hidpi #u1411
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/silicon-cop-u1411-fr_2x.jpg");
+	background-image: url("../images/silicon-cop-u1411-fr_2x.jpg");
 }
 
 #ppu1489-4
@@ -1136,7 +1136,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("https://mattbag.github.io/garagenerd/images/unanottedaacul.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/unanottedaacul.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -1155,7 +1155,7 @@
 
 .hidpi #u1412
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/unanottedaacul_2x.jpg");
+	background-image: url("../images/unanottedaacul_2x.jpg");
 }
 
 #ppu1493-4
@@ -1826,7 +1826,7 @@
 	border-radius: 25px;
 	top: -73px;
 	left: 429px;
-	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+	background: transparent url("../images/close_button_normal.png") no-repeat left top;
 }
 
 #u8393:hover
@@ -1835,7 +1835,7 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #999999 url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 #u8393:active
@@ -1844,18 +1844,18 @@
 	height: 30px;
 	min-height: 0px;
 	margin: 0px;
-	background: #6B6B6B url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+	background: #6B6B6B url("../images/close_button_rollover.png") no-repeat left top;
 }
 
 .hidpi #u8393
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/close_button_normal_2x.png");
+	background-image: url("../images/close_button_normal_2x.png");
 	background-size: 30px 30px;
 }
 
 .hidpi #u8393:hover,.hidpi #u8393:active
 {
-	background-image: url("https://mattbag.github.io/garagenerd/images/close_button_rollover_2x.png");
+	background-image: url("../images/close_button_rollover_2x.png");
 	background-size: 30px 30px;
 }
 

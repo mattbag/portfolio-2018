@@ -1,0 +1,35 @@
+.version.two /* version checker */
+{
+	color: #0000E7;
+	background-color: #ADA26D;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 62px;
+	padding-right: 960px;
+	padding-bottom: 438px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
