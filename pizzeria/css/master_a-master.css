@@ -1,0 +1,224 @@
+#u184
+{
+	border-color: #000000;
+	background-color: #B51C24;
+}
+
+#u491
+{
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u491:hover
+{
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u491:active
+{
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u1609
+{
+	background-color: transparent;
+}
+
+#u493
+{
+	border-color: #C4C4C4;
+	background-color: transparent;
+}
+
+#u491.PamphletThumbSelected,#u493:hover
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u493:active
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u493.PamphletThumbSelected
+{
+	border-color: #C4C4C4;
+	background-color: transparent;
+}
+
+#u1600
+{
+	background-color: transparent;
+}
+
+#u492
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u492:hover
+{
+	border-color: #6B6B6B;
+}
+
+#u1636
+{
+	background-color: transparent;
+}
+
+#u527
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u527:hover
+{
+	border-color: #6B6B6B;
+}
+
+#u492.PamphletThumbSelected,#u527.PamphletThumbSelected
+{
+	border-color: #6B6B6B;
+	background-color: transparent;
+}
+
+#u1627
+{
+	background-color: transparent;
+}
+
+#u537
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u537:hover
+{
+	border-color: #6B6B6B;
+	border-radius: 0px;
+}
+
+#u1645
+{
+	background-color: transparent;
+}
+
+#u540
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u540:hover
+{
+	border-color: #6B6B6B;
+	border-radius: 0px;
+}
+
+#u1618
+{
+	background-color: transparent;
+}
+
+#u542
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u542:hover
+{
+	border-color: #6B6B6B;
+	border-radius: 0px;
+}
+
+#u537.PamphletThumbSelected,#u540.PamphletThumbSelected,#u542.PamphletThumbSelected
+{
+	border-color: #6B6B6B;
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+#u1654
+{
+	background-color: transparent;
+}
+
+#u516,#u513,#u519,#u415,#u411,#u417,#u409
+{
+	display: block;
+}
+
+#u494
+{
+	background-color: transparent;
+}
+
+#u495,#u496
+{
+	border-width: 0px;
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u497,#u531,#u538,#u541,#u543
+{
+	border-width: 0px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u154
+{
+	vertical-align: top;
+}
+
+#u154_states
+{
+	float: left;
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background: url("https://mattbag.github.io/pizzeria/images/u154_states.png") no-repeat 0px 0px;
+}
+
+#u154:hover #u154_states
+{
+	-webkit-transition-duration: 0.2s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 0.2s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	background: url("https://mattbag.github.io/pizzeria/images/u154_states-r.png") no-repeat 0px 0px;
+}
+
+#u185
+{
+	border-color: #000000;
+	background-color: #534741;
+}
+
+#u536-4,#u535-4,#u534-4,#u533-4,#u544-4,#u545-4,#u546-4,#u434-8
+{
+	display: block;
+	vertical-align: top;
+}
+
+

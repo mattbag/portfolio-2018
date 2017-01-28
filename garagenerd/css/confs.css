@@ -1,0 +1,3177 @@
+.version.confs /* version checker */
+{
+	color: #000002;
+	background-color: #A892FD;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1170px;
+	min-height: 1115px;
+	background-image: none;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -112px;
+	margin-bottom: -48px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#u25093
+{
+	z-index: 385;
+	width: 215px;
+	min-height: 40px;
+	left: -100px;
+	position: relative;
+}
+
+#u25092
+{
+	z-index: 386;
+	height: 99px;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u25092-bw
+{
+	z-index: 386;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: -37px;
+}
+
+#pu26695
+{
+	width: 0.01px;
+	margin-left: -107px;
+	margin-top: 35px;
+}
+
+#u26695
+{
+	z-index: 2;
+	height: 200px;
+}
+
+#u26695-bw
+{
+	z-index: 2;
+	margin-top: 99px;
+	height: 200px;
+}
+
+#u25215
+{
+	z-index: 92;
+	width: 1377px;
+	background-color: #4778BA;
+	padding-bottom: 77px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+}
+
+#u8370
+{
+	z-index: 93;
+	width: 228px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 133px;
+}
+
+#u8372-4
+{
+	z-index: 94;
+	width: 228px;
+	min-height: 44px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 43px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8373-4
+{
+	z-index: 98;
+	width: 203px;
+	background-color: transparent;
+	text-align: right;
+	line-height: 19px;
+	font-size: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 92px;
+	left: 1049px;
+}
+
+#u25095
+{
+	z-index: 412;
+	width: 130px;
+	height: 138px;
+	position: relative;
+	margin-right: -10000px;
+	left: 107px;
+}
+
+#pmenuu25042
+{
+	width: 0.01px;
+	padding-bottom: 51px;
+	margin-left: 3px;
+	margin-top: -275px;
+}
+
+#menuu25042
+{
+	z-index: 387;
+	width: 363px;
+	position: fixed;
+	top: -13px;
+	left: 807px;
+}
+
+#u25071
+{
+	width: 96px;
+	min-height: 50px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u25074
+{
+	width: 96px;
+	padding-bottom: 33px;
+	position: relative;
+}
+
+#u25074:hover
+{
+	width: 96px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u25074.MuseMenuActive
+{
+	width: 96px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u25075-4
+{
+	width: 50px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 16px;
+	left: 23px;
+}
+
+#u25074:hover #u25075-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 50px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25074.MuseMenuActive #u25075-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 50px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25050
+{
+	width: 89px;
+	min-height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	left: 96px;
+}
+
+#u25051
+{
+	width: 89px;
+	padding-bottom: 33px;
+	position: relative;
+}
+
+#u25051:hover
+{
+	width: 89px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u25051.MuseMenuActive
+{
+	width: 89px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u25054-4
+{
+	width: 43px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 16px;
+	left: 23px;
+}
+
+#u25051:hover #u25054-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25051.MuseMenuActive #u25054-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 43px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25085
+{
+	width: 93px;
+	min-height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	left: 185px;
+}
+
+#u25086
+{
+	width: 93px;
+	padding-bottom: 33px;
+	position: relative;
+}
+
+#u25086:hover
+{
+	width: 93px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u25086.MuseMenuActive
+{
+	width: 93px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u25088-4
+{
+	width: 48px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 16px;
+	left: 22px;
+}
+
+#u25086:hover #u25088-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25086.MuseMenuActive #u25088-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 48px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25043
+{
+	width: 85px;
+	min-height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	left: 278px;
+}
+
+#u25046
+{
+	width: 85px;
+	padding-bottom: 33px;
+	position: relative;
+}
+
+#u25046:hover
+{
+	width: 85px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u25046.MuseMenuActive
+{
+	width: 85px;
+	min-height: 0px;
+	margin: 0px 0px -2px;
+}
+
+#u25049-4
+{
+	width: 40px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 16px;
+	left: 22px;
+}
+
+#u25046:hover #u25049-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 40px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25046.MuseMenuActive #u25049-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 40px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u25094
+{
+	z-index: 413;
+	width: 127px;
+	height: 43px;
+	position: fixed;
+	top: -9px;
+	left: 3px;
+}
+
+#pu7888
+{
+	width: 0.01px;
+	margin-left: 25px;
+	margin-top: 61px;
+}
+
+#u7888
+{
+	z-index: 102;
+	width: 740px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7891-4
+{
+	z-index: 103;
+	width: 278px;
+	background-color: transparent;
+	line-height: 22px;
+	position: relative;
+}
+
+#pu7889
+{
+	width: 0.01px;
+	margin-left: 1px;
+	margin-top: 10px;
+}
+
+#u7889
+{
+	z-index: 107;
+	width: 629px;
+	min-height: 21px;
+	border-color: #CECECE;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 110px;
+}
+
+#u7892
+{
+	z-index: 108;
+	width: 148px;
+	min-height: 21px;
+	border-color: #4778BA;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8293
+{
+	z-index: 109;
+	width: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	left: 760px;
+}
+
+#u8294-4
+{
+	z-index: 110;
+	width: 278px;
+	background-color: transparent;
+	line-height: 22px;
+	position: relative;
+}
+
+#pu8297
+{
+	width: 0.01px;
+	margin-left: 1px;
+	margin-top: 9px;
+}
+
+#u8297
+{
+	z-index: 114;
+	width: 249px;
+	min-height: 21px;
+	border-color: #CECECE;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 110px;
+}
+
+#u8295
+{
+	z-index: 115;
+	width: 148px;
+	min-height: 21px;
+	border-color: #4778BA;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#ppu7816
+{
+	width: 0.01px;
+	margin-left: 24px;
+	margin-top: 36px;
+}
+
+#u7816
+{
+	z-index: 353;
+	width: 420px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u7053-4
+{
+	z-index: 354;
+	width: 380px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 43px;
+	position: relative;
+}
+
+#u7056-4
+{
+	z-index: 362;
+	width: 120px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 241px;
+}
+
+#u9759
+{
+	z-index: 372;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 357px;
+}
+
+#u9763
+{
+	z-index: 373;
+	width: 22px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u7054-4
+{
+	z-index: 358;
+	width: 177px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 26px;
+}
+
+#u9755
+{
+	z-index: 371;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 218px;
+}
+
+#pamphletu7124
+{
+	z-index: 374;
+	width: 0.01px;
+	height: 48px;
+	padding-bottom: 18px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u7125
+{
+	z-index: 375;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u7126
+{
+	position: absolute;
+	width: 154px;
+	padding-bottom: 18px;
+	top: -19px;
+	left: -24px;
+}
+
+#u7126:hover
+{
+	background-color: #2ECAB5;
+	width: 154px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.Button-Style-Normal
+{
+	border-width: 0px;
+	border-color: #787878;
+	background-color: #4778BA;
+	border-radius: 5px;
+}
+
+#u7127-4
+{
+	z-index: 377;
+	width: 106px;
+	min-height: 29px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u7126:hover #u7127-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 106px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u7126:hover #u7127-4 p
+{
+	color: #495054;
+	visibility: inherit;
+}
+
+#u7132popup
+{
+	z-index: 381;
+}
+
+#u7141
+{
+	z-index: 382;
+	width: 742px;
+	height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u16091
+{
+	z-index: 383;
+	width: 741px;
+	min-height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7149
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-color: #000000;
+	border-radius: 25px;
+	top: -113px;
+	left: 725px;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+}
+
+#u7149:hover
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#buttonu7059
+{
+	z-index: 366;
+	width: 250px;
+	padding-bottom: 19px;
+	margin-left: 170px;
+	top: -66px;
+	margin-bottom: -64px;
+	position: relative;
+}
+
+#buttonu7059:hover
+{
+	background-color: #2ECAB5;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 170px;
+}
+
+#u7060-4
+{
+	z-index: 367;
+	width: 176px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 37px;
+}
+
+#buttonu7059:hover #u7060-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 176px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu7059:hover #u7060-4 p
+{
+	color: #495054;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u7906
+{
+	z-index: 116;
+	width: 741px;
+	min-height: 15px;
+	border-color: #CECECE;
+	background-color: transparent;
+	margin-top: 72px;
+	position: relative;
+}
+
+#u8307
+{
+	z-index: 141;
+	width: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 761px;
+}
+
+#buttonu8281
+{
+	z-index: 142;
+	width: 360px;
+	border-color: #787878;
+	border-radius: 2px;
+	padding-bottom: 82px;
+	position: relative;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image1.jpg") no-repeat center center;
+}
+
+#buttonu8281:hover
+{
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #545454 url("https://mattbag.github.io/garagenerd/images/image1.jpg") no-repeat center center;
+}
+
+#buttonu8281.ButtonSelected
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image1.jpg") no-repeat center center;
+}
+
+.hidpi #buttonu8281,.hidpi #buttonu8281:hover,.hidpi #buttonu8281.ButtonSelected
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/image1_2x.jpg");
+	background-size: 360px 213px;
+}
+
+#u8282-4
+{
+	z-index: 143;
+	width: 341px;
+	min-height: 51px;
+	background-color: transparent;
+	line-height: 50px;
+	text-align: center;
+	font-size: 42px;
+	letter-spacing: 1px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 10px;
+}
+
+#buttonu8281:hover #u8282-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 51px;
+	width: 341px;
+	margin: 80px -10000px 0px 0px;
+}
+
+#u7126.PamphletThumbSelected #u7127-4 p,#buttonu7059.ButtonSelected #u7060-4 p,#buttonu8281:hover #u8282-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u8300-4
+{
+	z-index: 147;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #404040;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u8302-4
+{
+	z-index: 151;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #9CA4AF;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#ppu9867
+{
+	width: 0.01px;
+	margin-left: 24px;
+	margin-top: 4px;
+}
+
+#u9867
+{
+	z-index: 311;
+	width: 712px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u9876-4
+{
+	z-index: 312;
+	width: 712px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 43px;
+	position: relative;
+}
+
+#u9877-4
+{
+	z-index: 320;
+	width: 120px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 241px;
+}
+
+#u9878
+{
+	z-index: 337;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 357px;
+}
+
+#u9880
+{
+	z-index: 338;
+	width: 22px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u9898-4
+{
+	z-index: 316;
+	width: 177px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 26px;
+}
+
+#u9874
+{
+	z-index: 336;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 218px;
+}
+
+#u9868-4
+{
+	z-index: 324;
+	width: 177px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 380px;
+}
+
+#pamphletu16093
+{
+	z-index: 339;
+	width: 0.01px;
+	height: 48px;
+	padding-bottom: 18px;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u16094
+{
+	z-index: 340;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16095
+{
+	position: absolute;
+	width: 154px;
+	padding-bottom: 18px;
+	top: -19px;
+	left: -24px;
+}
+
+#u16095:hover
+{
+	background-color: #2ECAB5;
+	width: 154px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u16096-5
+{
+	z-index: 342;
+	width: 106px;
+	min-height: 29px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u7126.PamphletThumbSelected #u7127-4,#u16095:hover #u16096-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 106px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u16095:hover #u16096-5 p,#u16095:hover #u16096-5 span
+{
+	color: #495054;
+	visibility: inherit;
+}
+
+#u16097
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u16098
+{
+	z-index: 347;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u16100popup
+{
+	z-index: 349;
+}
+
+#u16101
+{
+	z-index: 350;
+	width: 742px;
+	height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u16102
+{
+	z-index: 351;
+	width: 741px;
+	min-height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u16108
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-color: #000000;
+	border-radius: 25px;
+	top: -113px;
+	left: 725px;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+}
+
+#u16108:hover
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+}
+
+#buttonu9869
+{
+	z-index: 328;
+	width: 250px;
+	padding-bottom: 19px;
+	margin-left: 167px;
+	top: -66px;
+	margin-bottom: -64px;
+	position: relative;
+}
+
+#buttonu9869:hover
+{
+	background-color: #2ECAB5;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 167px;
+}
+
+#buttonu9869.ButtonSelected
+{
+	background-color: #4778BA;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 167px;
+}
+
+#u9870-5
+{
+	z-index: 329;
+	width: 176px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 34px;
+}
+
+#buttonu7059.ButtonSelected #u7060-4,#buttonu9869:hover #u9870-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 176px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu9869:hover #u9870-5 p,#buttonu9869:hover #u9870-5 span
+{
+	color: #495054;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u9871
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u9872
+{
+	z-index: 334;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u7910
+{
+	z-index: 117;
+	width: 741px;
+	min-height: 15px;
+	border-color: #CECECE;
+	background-color: transparent;
+	margin-top: 50px;
+	position: relative;
+}
+
+#u9899
+{
+	z-index: 273;
+	width: 712px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1px;
+	margin-top: 44px;
+	position: relative;
+}
+
+#u9906-4
+{
+	z-index: 274;
+	width: 712px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 43px;
+	position: relative;
+}
+
+#u9901-4
+{
+	z-index: 282;
+	width: 120px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 241px;
+}
+
+#u9902
+{
+	z-index: 295;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 357px;
+}
+
+#u9904
+{
+	z-index: 296;
+	width: 22px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u9900-4
+{
+	z-index: 278;
+	width: 177px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 26px;
+}
+
+#u9912
+{
+	z-index: 294;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 218px;
+}
+
+#pamphletu16109
+{
+	z-index: 297;
+	width: 0.01px;
+	height: 48px;
+	padding-bottom: 18px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u16117
+{
+	z-index: 298;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16118
+{
+	position: absolute;
+	width: 154px;
+	padding-bottom: 18px;
+	top: -19px;
+	left: -24px;
+}
+
+#u16118:hover
+{
+	background-color: #2ECAB5;
+	width: 154px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u16119-5
+{
+	z-index: 300;
+	width: 106px;
+	min-height: 29px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16095.PamphletThumbSelected #u16096-5,#u16118:hover #u16119-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 106px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u16118:hover #u16119-5 p,#u16118:hover #u16119-5 span
+{
+	color: #495054;
+	visibility: inherit;
+}
+
+#u16120
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u16121
+{
+	z-index: 305;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u16110popup
+{
+	z-index: 307;
+}
+
+#u16111
+{
+	z-index: 308;
+	width: 742px;
+	height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u16112
+{
+	z-index: 309;
+	width: 741px;
+	min-height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u16116
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-color: #000000;
+	border-radius: 25px;
+	top: -113px;
+	left: 725px;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+}
+
+#u16116:hover
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+}
+
+#buttonu9907
+{
+	z-index: 286;
+	width: 250px;
+	padding-bottom: 19px;
+	margin-left: 170px;
+	top: -66px;
+	margin-bottom: -64px;
+	position: relative;
+}
+
+#buttonu9907:hover
+{
+	background-color: #2ECAB5;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 170px;
+}
+
+#u9908-5
+{
+	z-index: 287;
+	width: 176px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 34px;
+}
+
+#buttonu9869.ButtonSelected #u9870-5,#buttonu9907:hover #u9908-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 176px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu9907:hover #u9908-5 p,#buttonu9907:hover #u9908-5 span
+{
+	color: #495054;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u9909
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u9910
+{
+	z-index: 292;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u7914
+{
+	z-index: 118;
+	width: 741px;
+	min-height: 15px;
+	border-color: #CECECE;
+	background-color: transparent;
+	margin-top: 52px;
+	position: relative;
+}
+
+#u9931
+{
+	z-index: 235;
+	width: 712px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1px;
+	margin-top: 44px;
+	position: relative;
+}
+
+#u9932-4
+{
+	z-index: 236;
+	width: 712px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 43px;
+	position: relative;
+}
+
+#u9935-4
+{
+	z-index: 244;
+	width: 120px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 241px;
+}
+
+#u9937
+{
+	z-index: 257;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 357px;
+}
+
+#u9933
+{
+	z-index: 258;
+	width: 22px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u9936-4
+{
+	z-index: 240;
+	width: 177px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 26px;
+}
+
+#u9961
+{
+	z-index: 256;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 218px;
+}
+
+#pamphletu16125
+{
+	z-index: 259;
+	width: 0.01px;
+	height: 48px;
+	padding-bottom: 18px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u16133
+{
+	z-index: 260;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16134
+{
+	position: absolute;
+	width: 154px;
+	padding-bottom: 18px;
+	top: -19px;
+	left: -24px;
+}
+
+#u16134:hover
+{
+	background-color: #2ECAB5;
+	width: 154px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u16135-5
+{
+	z-index: 262;
+	width: 106px;
+	min-height: 29px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16118.PamphletThumbSelected #u16119-5,#u16134:hover #u16135-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 106px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u16134:hover #u16135-5 p,#u16134:hover #u16135-5 span
+{
+	color: #495054;
+	visibility: inherit;
+}
+
+#u16136
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u16137
+{
+	z-index: 267;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u16126popup
+{
+	z-index: 269;
+}
+
+#u16127
+{
+	z-index: 270;
+	width: 742px;
+	height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u16128
+{
+	z-index: 271;
+	width: 741px;
+	min-height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u16132
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-color: #000000;
+	border-radius: 25px;
+	top: -113px;
+	left: 725px;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+}
+
+#u16132:hover
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+}
+
+#buttonu9939
+{
+	z-index: 248;
+	width: 250px;
+	padding-bottom: 19px;
+	margin-left: 170px;
+	top: -66px;
+	margin-bottom: -64px;
+	position: relative;
+}
+
+#buttonu9939:hover
+{
+	background-color: #2ECAB5;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 170px;
+}
+
+#u9940-5
+{
+	z-index: 249;
+	width: 176px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 34px;
+}
+
+#buttonu9907.ButtonSelected #u9908-5,#buttonu9939:hover #u9940-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 176px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu9939:hover #u9940-5 p,#buttonu9939:hover #u9940-5 span
+{
+	color: #495054;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u9941
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u9942
+{
+	z-index: 254;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u8364
+{
+	z-index: 119;
+	width: 741px;
+	min-height: 15px;
+	border-color: #CECECE;
+	background-color: transparent;
+	margin-top: 52px;
+	position: relative;
+}
+
+#u9995
+{
+	z-index: 197;
+	width: 712px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 1px;
+	margin-top: 44px;
+	position: relative;
+}
+
+#u10018-4
+{
+	z-index: 198;
+	width: 712px;
+	min-height: 46px;
+	background-color: transparent;
+	line-height: 43px;
+	position: relative;
+}
+
+#pu7056-4,#pu9877-4,#pu9901-4,#pu9935-4,#pu10019-4
+{
+	width: 0.01px;
+	margin-top: 5px;
+}
+
+#u10019-4
+{
+	z-index: 206;
+	width: 120px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 241px;
+}
+
+#u10000
+{
+	z-index: 219;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 357px;
+}
+
+#u9998
+{
+	z-index: 220;
+	width: 22px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u10020-4
+{
+	z-index: 202;
+	width: 177px;
+	min-height: 25px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	left: 26px;
+}
+
+#u9996
+{
+	z-index: 218;
+	width: 20px;
+	min-height: 21px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #4778BA;
+	font-size: 13px;
+	line-height: 16px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 218px;
+}
+
+#pamphletu16141
+{
+	z-index: 221;
+	width: 0.01px;
+	height: 48px;
+	padding-bottom: 18px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u16142
+{
+	z-index: 222;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16143
+{
+	position: absolute;
+	width: 154px;
+	padding-bottom: 18px;
+	top: -19px;
+	left: -24px;
+}
+
+#u16143:hover
+{
+	background-color: #2ECAB5;
+	width: 154px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u7126.PamphletThumbSelected,#u16095.PamphletThumbSelected,#u16118.PamphletThumbSelected,#u16134.PamphletThumbSelected,#u16143.PamphletThumbSelected
+{
+	background-color: #4778BA;
+	width: 154px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u16144-5
+{
+	z-index: 224;
+	width: 106px;
+	min-height: 29px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 24px;
+}
+
+#u16134.PamphletThumbSelected #u16135-5,#u16143:hover #u16144-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 106px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u16143.PamphletThumbSelected #u16144-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 29px;
+	width: 106px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#u16143:hover #u16144-5 p,#u16143:hover #u16144-5 span
+{
+	color: #495054;
+	visibility: inherit;
+}
+
+#u16145
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u16146
+{
+	z-index: 229;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#u7132,#u16100,#u16110,#u16126,#u16149
+{
+	position: absolute;
+	width: 742px;
+	background-color: transparent;
+	top: -98px;
+	left: -1px;
+}
+
+#u16149popup
+{
+	z-index: 231;
+}
+
+#u16150
+{
+	z-index: 232;
+	width: 742px;
+	height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u16151
+{
+	z-index: 233;
+	width: 741px;
+	min-height: 187px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u16148
+{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	border-color: #000000;
+	border-radius: 25px;
+	top: -113px;
+	left: 725px;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/close_button_normal.png") no-repeat left top;
+}
+
+#u16148:hover
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+	background: #999999 url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+}
+
+#u7149:active,#u16108:active,#u16116:active,#u16132:active,#u16148:active
+{
+	width: 30px;
+	height: 30px;
+	min-height: 0px;
+	margin: 0px;
+	background: #6B6B6B url("https://mattbag.github.io/garagenerd/images/close_button_rollover.png") no-repeat left top;
+}
+
+.hidpi #u7149,.hidpi #u16108,.hidpi #u16116,.hidpi #u16132,.hidpi #u16148
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/close_button_normal_2x.png");
+	background-size: 30px 30px;
+}
+
+.hidpi #u7149:hover,.hidpi #u7149:active,.hidpi #u16108:hover,.hidpi #u16108:active,.hidpi #u16116:hover,.hidpi #u16116:active,.hidpi #u16132:hover,.hidpi #u16132:active,.hidpi #u16148:hover,.hidpi #u16148:active
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/close_button_rollover_2x.png");
+	background-size: 30px 30px;
+}
+
+#buttonu10022
+{
+	z-index: 210;
+	width: 250px;
+	padding-bottom: 19px;
+	margin-left: 170px;
+	top: -66px;
+	margin-bottom: -64px;
+	position: relative;
+}
+
+#buttonu10022:hover
+{
+	background-color: #2ECAB5;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 170px;
+}
+
+#buttonu7059.ButtonSelected,#buttonu9907.ButtonSelected,#buttonu9939.ButtonSelected,#buttonu10022.ButtonSelected
+{
+	background-color: #4778BA;
+	width: 250px;
+	min-height: 0px;
+	margin: 0px 0px -64px 170px;
+}
+
+#u10023-5
+{
+	z-index: 211;
+	width: 176px;
+	min-height: 23px;
+	background-color: transparent;
+	line-height: 26px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 34px;
+}
+
+#buttonu9939.ButtonSelected #u9940-5,#buttonu10022:hover #u10023-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 176px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu10022.ButtonSelected #u10023-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 176px;
+	margin: 19px -10000px 0px 0px;
+}
+
+#buttonu10022:hover #u10023-5 p,#buttonu10022:hover #u10023-5 span
+{
+	color: #495054;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 22px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u10024
+{
+	float: right;
+	margin-top: 4px;
+}
+
+#u16097:hover,#u9871:hover,#u16120:hover,#u9909:hover,#u16136:hover,#u9941:hover,#u16145:hover,#u10024:hover
+{
+	min-height: 0px;
+	margin: 4px 0px 0px;
+}
+
+#u10025
+{
+	z-index: 216;
+	width: 20px;
+	min-height: 19px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 26px;
+}
+
+#pu8313
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	margin-left: 761px;
+}
+
+#u8313
+{
+	z-index: 155;
+	width: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#buttonu8316
+{
+	z-index: 156;
+	width: 360px;
+	border-color: #787878;
+	border-radius: 2px;
+	padding-bottom: 82px;
+	position: relative;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image2.jpg") no-repeat center center;
+}
+
+#buttonu8316:hover
+{
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #545454 url("https://mattbag.github.io/garagenerd/images/image2.jpg") no-repeat center center;
+}
+
+#buttonu8316.ButtonSelected
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image2.jpg") no-repeat center center;
+}
+
+.hidpi #buttonu8316,.hidpi #buttonu8316:hover,.hidpi #buttonu8316.ButtonSelected
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/image2_2x.jpg");
+	background-size: 360px 213px;
+}
+
+#u8317-4
+{
+	z-index: 157;
+	width: 341px;
+	min-height: 51px;
+	background-color: transparent;
+	line-height: 50px;
+	text-align: center;
+	font-size: 42px;
+	letter-spacing: 1px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 10px;
+}
+
+#buttonu8281.ButtonSelected #u8282-4,#buttonu8316:hover #u8317-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 51px;
+	width: 341px;
+	margin: 80px -10000px 0px 0px;
+}
+
+#u16095.PamphletThumbSelected #u16096-5 p,#u16095.PamphletThumbSelected #u16096-5 span,#buttonu9869.ButtonSelected #u9870-5 p,#buttonu9869.ButtonSelected #u9870-5 span,#u16118.PamphletThumbSelected #u16119-5 p,#u16118.PamphletThumbSelected #u16119-5 span,#buttonu9907.ButtonSelected #u9908-5 p,#buttonu9907.ButtonSelected #u9908-5 span,#u16134.PamphletThumbSelected #u16135-5 p,#u16134.PamphletThumbSelected #u16135-5 span,#buttonu9939.ButtonSelected #u9940-5 p,#buttonu9939.ButtonSelected #u9940-5 span,#u16143.PamphletThumbSelected #u16144-5 p,#u16143.PamphletThumbSelected #u16144-5 span,#buttonu10022.ButtonSelected #u10023-5 p,#buttonu10022.ButtonSelected #u10023-5 span,#buttonu8316:hover #u8317-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u8315-4
+{
+	z-index: 161;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #404040;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u8314-4
+{
+	z-index: 165;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #9CA4AF;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#u8323
+{
+	z-index: 169;
+	width: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+}
+
+#buttonu8325
+{
+	z-index: 170;
+	width: 360px;
+	border-color: #787878;
+	border-radius: 2px;
+	padding-bottom: 82px;
+	position: relative;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image3.jpg") no-repeat center center;
+}
+
+#buttonu8325:hover
+{
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #545454 url("https://mattbag.github.io/garagenerd/images/image3.jpg") no-repeat center center;
+}
+
+#buttonu8325.ButtonSelected
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image3.jpg") no-repeat center center;
+}
+
+.hidpi #buttonu8325,.hidpi #buttonu8325:hover,.hidpi #buttonu8325.ButtonSelected
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/image3_2x.jpg");
+	background-size: 360px 213px;
+}
+
+#u8326-4
+{
+	z-index: 171;
+	width: 341px;
+	min-height: 51px;
+	background-color: transparent;
+	line-height: 50px;
+	text-align: center;
+	font-size: 42px;
+	letter-spacing: 1px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 10px;
+}
+
+#buttonu8316.ButtonSelected #u8317-4,#buttonu8325:hover #u8326-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 51px;
+	width: 341px;
+	margin: 80px -10000px 0px 0px;
+}
+
+#buttonu8325:hover #u8326-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u8327-4
+{
+	z-index: 175;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #404040;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u8324-4
+{
+	z-index: 179;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #9CA4AF;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#u8333
+{
+	z-index: 183;
+	width: 360px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 31px;
+	position: relative;
+}
+
+#buttonu8334
+{
+	z-index: 184;
+	width: 360px;
+	border-color: #787878;
+	border-radius: 2px;
+	padding-bottom: 82px;
+	position: relative;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image4.jpg") no-repeat center center;
+}
+
+#buttonu8334:hover
+{
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #545454 url("https://mattbag.github.io/garagenerd/images/image4.jpg") no-repeat center center;
+}
+
+#buttonu8334.ButtonSelected
+{
+	-pie-box-shadow: none;
+	box-shadow: none;
+	width: 360px;
+	min-height: 0px;
+	margin: 0px;
+	background: #CACACA url("https://mattbag.github.io/garagenerd/images/image4.jpg") no-repeat center center;
+}
+
+#buttonu8281:hover::before,#buttonu8316:hover::before,#buttonu8325:hover::before,#buttonu8334:hover::before
+{
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	border-radius: 2px;
+	box-shadow: inset 0px 0px 250px rgba(0,0,0,0.6), inset 0px 0px 250px rgba(0,0,0,0.6);
+}
+
+.hidpi #buttonu8334,.hidpi #buttonu8334:hover,.hidpi #buttonu8334.ButtonSelected
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/image4_2x.jpg");
+	background-size: 360px 213px;
+}
+
+#u8335-4
+{
+	z-index: 185;
+	width: 341px;
+	min-height: 51px;
+	background-color: transparent;
+	line-height: 50px;
+	text-align: center;
+	font-size: 42px;
+	letter-spacing: 1px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 80px;
+	left: 10px;
+}
+
+#buttonu8325.ButtonSelected #u8326-4,#buttonu8334:hover #u8335-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 51px;
+	width: 341px;
+	margin: 80px -10000px 0px 0px;
+}
+
+#buttonu8334.ButtonSelected #u8335-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 51px;
+	width: 341px;
+	margin: 80px -10000px 0px 0px;
+}
+
+#buttonu8334:hover #u8335-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.js body,#buttonu8281.ButtonSelected #u8282-4 p,#u8282-2,#buttonu8316.ButtonSelected #u8317-4 p,#u8317-2,#buttonu8325.ButtonSelected #u8326-4 p,#u8326-2,#buttonu8334.ButtonSelected #u8335-4 p,#u8335-2
+{
+	visibility: hidden;
+}
+
+#u8336-4
+{
+	z-index: 189;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #404040;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u8337-4
+{
+	z-index: 193;
+	width: 223px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #9CA4AF;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	top: -5px;
+	margin-bottom: -5px;
+	position: relative;
+}
+
+#ppbuttonu7970
+{
+	width: 0.01px;
+	margin-left: 24px;
+	margin-top: 111px;
+}
+
+#pu7816,#pu9867,#pbuttonu7970
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#buttonu7970
+{
+	z-index: 121;
+	width: 28px;
+	height: 28px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.Pages_Button_Normal
+{
+	border-width: 0px;
+	border-color: #787878;
+	background-color: #4778BA;
+	border-radius: 1px;
+}
+
+#u7971-4
+{
+	z-index: 122;
+	width: 18px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 19px;
+}
+
+#pbuttonu7970:hover #u7971-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	width: 18px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 4px;
+	min-height: 19px;
+}
+
+#pbuttonu7970:hover #u7971-4 p
+{
+	color: #4778BA;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 16px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#pbuttonu7972
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 38px;
+}
+
+#buttonu7972
+{
+	z-index: 128;
+	width: 28px;
+	height: 28px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7973-4
+{
+	z-index: 129;
+	width: 18px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 19px;
+}
+
+#pbuttonu7972:hover #u7973-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	width: 18px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 4px;
+	min-height: 19px;
+}
+
+#pbuttonu7972:hover #u7973-4 p
+{
+	color: #4778BA;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 16px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#pbuttonu7974
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 75px;
+}
+
+#buttonu7974
+{
+	z-index: 135;
+	width: 28px;
+	height: 28px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pbuttonu7970:hover #buttonu7970,#pbuttonu7972:hover #buttonu7972,#pbuttonu7974:hover #buttonu7974
+{
+	width: 24px;
+	height: 24px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #4778BA;
+	background-color: transparent;
+	border-radius: 2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#u7975-4
+{
+	z-index: 136;
+	width: 18px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 19px;
+}
+
+#pbuttonu7974:hover #u7975-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	position: relative;
+	width: 18px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 4px;
+	min-height: 19px;
+}
+
+#pbuttonu7970.ButtonSelected #u7971-4,#pbuttonu7972.ButtonSelected #u7973-4,#pbuttonu7974.ButtonSelected #u7975-4
+{
+	background-color: transparent;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 18px;
+}
+
+#pbuttonu7974:hover #u7975-4 p
+{
+	color: #4778BA;
+	visibility: inherit;
+	line-height: 1.2;
+	font-size: 16px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	padding: 0px;
+}
+
+#pbuttonu7970.ButtonSelected #u7971-4 p,#pbuttonu7972.ButtonSelected #u7973-4 p,#pbuttonu7974.ButtonSelected #u7975-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#pbuttonu7970 #u7971-4,#pbuttonu7972 #u7973-4,#pbuttonu7974 #u7975-4
+{
+	position: relative;
+	width: 18px;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 6px;
+}
+
+#u24874
+{
+	z-index: 4;
+	min-height: 233px;
+	padding-bottom: 81px;
+}
+
+#u24895
+{
+	z-index: 71;
+	width: 170px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 125px;
+}
+
+#u24896-4
+{
+	z-index: 72;
+	width: 170px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u24876
+{
+	z-index: 62;
+	width: 245px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 420px;
+}
+
+#u24878-4
+{
+	z-index: 63;
+	width: 228px;
+	position: relative;
+}
+
+#u24877-4
+{
+	z-index: 67;
+	width: 245px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u24879
+{
+	z-index: 13;
+	width: 231px;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 725px;
+}
+
+#u24893-4
+{
+	z-index: 14;
+	width: 228px;
+	position: relative;
+}
+
+#u24894-4
+{
+	z-index: 18;
+	width: 228px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#widgetu24880
+{
+	z-index: 22;
+	width: 0.01px;
+	height: 126px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#widgetu24881
+{
+	z-index: 23;
+	width: 231px;
+	height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+}
+
+#widgetu24881.fld-err-st
+{
+	width: 231px;
+	height: 34px;
+	min-height: 0px;
+	margin: 8px -10000px 0px 0px;
+}
+
+#u24884-4
+{
+	z-index: 24;
+	width: 211px;
+	min-height: 14px;
+	padding: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#widgetu24881:hover #u24884-4
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 211px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu24888
+{
+	z-index: 28;
+	width: 231px;
+	height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+}
+
+#widgetu24888.fld-err-st
+{
+	width: 231px;
+	height: 34px;
+	min-height: 0px;
+	margin: 53px -10000px 0px 0px;
+}
+
+#u24889-4
+{
+	z-index: 29;
+	width: 211px;
+	min-height: 14px;
+	padding: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#widgetu24881.fld-err-st #u24884-4,#widgetu24888:hover #u24889-4
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 211px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu24888.fld-err-st #u24889-4
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 14px;
+	width: 211px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu24881_input,#widgetu24881_prompt,#widgetu24888_input,#widgetu24888_prompt
+{
+	width: 211px;
+	min-height: 14px;
+	padding: 10px;
+}
+
+#widgetu24881:hover #widgetu24881_input,#widgetu24881.fld-err-st #widgetu24881_input,#widgetu24881:hover #widgetu24881_prompt,#widgetu24881.fld-err-st #widgetu24881_prompt,#widgetu24888:hover #widgetu24888_input,#widgetu24888.fld-err-st #widgetu24888_input,#widgetu24888:hover #widgetu24888_prompt,#widgetu24888.fld-err-st #widgetu24888_prompt
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#u24887-4
+{
+	z-index: 33;
+	width: 200px;
+	min-height: 21px;
+	padding-top: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u24886-4
+{
+	z-index: 37;
+	width: 200px;
+	min-height: 21px;
+	padding-top: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u24892-4
+{
+	z-index: 41;
+	width: 200px;
+	min-height: 21px;
+	padding-top: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#widgetu24880.frm-sub-st #u24887-4,#widgetu24880.frm-subm-err-st #u24886-4,#widgetu24880.frm-subm-ok-st #u24892-4
+{
+	min-height: 25px;
+}
+
+#u24885-17
+{
+	z-index: 45;
+	min-height: 30px;
+	width: 130px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 96px;
+}
+
+#u24869
+{
+	z-index: 76;
+	width: 214px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 1031px;
+}
+
+#u24870-4
+{
+	z-index: 88;
+	width: 214px;
+	position: relative;
+}
+
+#u24871-11
+{
+	z-index: 77;
+	width: 214px;
+	min-height: 104px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u24874-bw
+{
+	z-index: 4;
+	min-height: 233px;
+	margin-top: 151px;
+}
+
+#u24875
+{
+	z-index: 3;
+	min-height: 35px;
+	padding-bottom: 12px;
+}
+
+#u24874_align_to_page,#u24875_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 1170px;
+	left: -100px;
+}
+
+#u24873-4
+{
+	z-index: 5;
+	width: 228px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 125px;
+}
+
+#u24872-4
+{
+	z-index: 9;
+	width: 228px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 1017px;
+}
+
+#u24875-bw
+{
+	z-index: 3;
+	min-height: 35px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 1170px;
+	padding-top: 36px;
+	padding-bottom: 47px;
+}
+

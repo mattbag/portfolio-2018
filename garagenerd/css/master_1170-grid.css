@@ -1,0 +1,492 @@
+#u293
+{
+	background-color: #363636;
+}
+
+.Navigation-Bar
+{
+	border-width: 0px;
+	-pie-box-shadow: 0px 0px 20px #B2B2B2;
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.3);
+	border-color: transparent;
+	background-color: #495054;
+}
+
+#u3605
+{
+	background: transparent url("https://mattbag.github.io/garagenerd/images/nerd-band2.png") no-repeat center center;
+	background-size: contain;
+}
+
+.Big-Logo
+{
+	border-width: 0px;
+	border-color: #000000;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/logo.png") no-repeat center center;
+}
+
+.hidpi .Big-Logo
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/logo_2x.png");
+	background-size: 216px 73px;
+}
+
+.hidpi #u3605
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/nerd-band_2x.png");
+}
+
+#u2380-3
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	background-size: 37px 52px;
+}
+
+.Slider_Previous_Button
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/slider_arrow_2.png") no-repeat center center;
+}
+
+.hidpi .Slider_Previous_Button
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/slider_arrow_2_2x.png");
+	background-size: 37px 52px;
+}
+
+#u2373-3
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: transparent;
+	color: #999999;
+	line-height: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	background-size: 37px 52px;
+}
+
+.Slider_Next_Button
+{
+	border-width: 0px;
+	border-color: transparent;
+	background: transparent url("https://mattbag.github.io/garagenerd/images/slider_arrow_1.png") no-repeat center center;
+}
+
+.hidpi .Slider_Next_Button
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/slider_arrow_1_2x.png");
+	background-size: 37px 52px;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("https://mattbag.github.io/garagenerd/images/loading.gif") no-repeat center center;
+}
+
+#u26698,#u2391,#u267,#u268
+{
+	background-color: transparent;
+}
+
+#u268:hover
+{
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #4778BA;
+}
+
+#u271-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+}
+
+#u253,#u256
+{
+	background-color: transparent;
+}
+
+#u256:hover
+{
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #4778BA;
+}
+
+#u258-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+}
+
+#u260,#u261
+{
+	background-color: transparent;
+}
+
+#u261:hover
+{
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #4778BA;
+}
+
+#u264-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+}
+
+#u16801,#u16802
+{
+	background-color: transparent;
+}
+
+#u16802:hover
+{
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #4778BA;
+}
+
+#u268.MuseMenuActive,#u256.MuseMenuActive,#u261.MuseMenuActive,#u16802.MuseMenuActive
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	border-width: 0px 0px 2px;
+}
+
+#u16804-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.MenuItem /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+#u15956
+{
+	background: transparent url("https://mattbag.github.io/garagenerd/images/nerd-band-u15956-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+.Small-Logo
+{
+	border-width: 0px;
+	border-color: #000000;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	background: transparent url("https://mattbag.github.io/garagenerd/images/logo_small.png") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi .Small-Logo
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/logo_small_2x.png");
+}
+
+.hidpi #u15956
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/nerd-band-u15956-fr_2x.png");
+}
+
+.js #u2380-3.ose_pre_init,.js #u2373-3.ose_pre_init,.js #u15956.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u4702
+{
+	border-color: #000000;
+	background-color: #292929;
+}
+
+#u507-4,#u16089-4,#u16090-4,#u512-4
+{
+	background-color: transparent;
+	color: #999999;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+#u16763,#u24721,#u24741,#u24761,#u24781,#u24801,#menuu238,#u15568,#u16623,#u15570,#widgetu2309
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u2311-4
+{
+	color: #636363;
+	line-height: 14px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#widgetu2309:hover #u2311-4
+{
+	border-color: #BFC7D3;
+}
+
+.Footer-Form-Normal
+{
+	border-width: 0px;
+	border-color: #BFC7D3;
+	background-color: #282828;
+	border-radius: 5px;
+}
+
+#widgetu2309.non-empty-st #u2311-4 *
+{
+	color: #AFAFAF;
+	font-style: normal;
+}
+
+#widgetu2309:hover #u2311-4 *
+{
+	color: #7F7F7F;
+	font-style: normal;
+}
+
+#widgetu2318
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#widgetu2309.fld-err-st,#widgetu2318.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+#u2319-4
+{
+	color: #636363;
+	line-height: 14px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+#widgetu2318:hover #u2319-4
+{
+	border-color: #BFC7D3;
+}
+
+#widgetu2309.fld-err-st #u2311-4,#widgetu2318.fld-err-st #u2319-4
+{
+	border-color: #D7244C;
+}
+
+#widgetu2318.non-empty-st #u2319-4 *
+{
+	color: #AFAFAF;
+	font-style: normal;
+}
+
+#widgetu2318:hover #u2319-4 *
+{
+	color: #7F7F7F;
+	font-style: normal;
+}
+
+#widgetu2309.fld-err-st #u2311-4 *,#widgetu2318.fld-err-st #u2319-4 *
+{
+	color: #D7244C;
+	font-style: italic;
+}
+
+#widgetu2309_input,#widgetu2309_prompt,#widgetu2318_input,#widgetu2318_prompt
+{
+	color: #636363;
+	font-family: lato, sans-serif;
+	font-style: italic;
+	font-weight: 400;
+}
+
+#widgetu2309.non-empty-st #widgetu2309_prompt,#widgetu2318.non-empty-st #widgetu2318_prompt
+{
+	visibility: hidden;
+}
+
+#u2306-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 14px;
+	font-size: 12px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+#widgetu2305.frm-sub-st #u2306-4 p
+{
+	color: #999999;
+	line-height: 1;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+}
+
+#u2307-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #FF0000;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+#widgetu2305.frm-subm-err-st #u2307-4 p
+{
+	color: #D7244C;
+	line-height: 1;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+}
+
+#u2313-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	color: #00FF00;
+	line-height: 12px;
+	font-size: 12px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+.js #u3605.ose_pre_init,.js #u26698.ose_pre_init,#widgetu2305.frm-sub-st #u2306-4,#widgetu2305.frm-subm-err-st #u2307-4,#widgetu2305.frm-subm-ok-st #u2313-4
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#widgetu2305.frm-subm-ok-st #u2313-4 p
+{
+	color: #999999;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+}
+
+#u2308-17
+{
+	background: url("https://mattbag.github.io/garagenerd/images/u2308-17.png") no-repeat 0px 0px;
+}
+
+#u2308-17:hover
+{
+	background: url("https://mattbag.github.io/garagenerd/images/u2308-17-r.png") no-repeat 0px 0px;
+}
+
+#u2308-17:active
+{
+	background: url("https://mattbag.github.io/garagenerd/images/u2308-17-m.png") no-repeat 0px 0px;
+}
+
+#widgetu2305.frm-sub-st #u2308-17
+{
+	background: url("https://mattbag.github.io/garagenerd/images/u2308-17-fs.png") no-repeat 0px 0px;
+}
+
+.hidpi #u2308-17
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17_2x.png");
+	background-size: 130px 30px;
+}
+
+.hidpi #u2308-17:hover
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17-r_2x.png");
+	background-size: 130px 30px;
+}
+
+.hidpi #u2308-17:active
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17-m_2x.png");
+	background-size: 130px 30px;
+}
+
+.hidpi #widgetu2305.frm-sub-st #u2308-17
+{
+	background-image: url("https://mattbag.github.io/garagenerd/images/u2308-17-fs_2x.png");
+	background-size: 130px 30px;
+}
+
+#u17530
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u515-4
+{
+	background-color: transparent;
+	color: #969696;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+#u296
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #292929;
+}
+
+#u513-4,#u514-11,#u509-4
+{
+	background-color: transparent;
+	color: #999999;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+}
+
+#u510-4
+{
+	background-color: transparent;
+	color: #999999;
+	text-align: right;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+}
+
+

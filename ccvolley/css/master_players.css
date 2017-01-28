@@ -1,0 +1,323 @@
+#u1053
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #FFFFFF;
+	opacity: 0.67;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=67)";
+	filter: alpha(opacity=67);
+	border-radius: 170px 170px 0px 170px ;
+	position: fixed;
+}
+
+#u1053:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u1054
+{
+	overflow: hidden;
+	position: fixed;
+}
+
+#tab-panelu1003
+{
+	border-style: none;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u1022
+{
+	border-style: none;
+	background-color: #B6CAF3;
+	position: relative;
+}
+
+#u1023
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1023:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1024-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	position: relative;
+}
+
+#u1035:active #u1037,#u1027:active #u1030,#u1027.TabbedPanelsTabSelected #u1029,#u1039.TabbedPanelsTabSelected #u1042,#u1023:active #u1026,#u1035.TabbedPanelsTabSelected #u1036,#u1035:active #u1036,#u1023.TabbedPanelsTabSelected #u1025,#u1023:active #u1025,#u1039.TabbedPanelsTabSelected #u1040,#u1027.TabbedPanelsTabSelected #u1030,#u1023.TabbedPanelsTabSelected #u1026,#u1027:active #u1029,#u1039:active #u1040,#u1039:active #u1042,#u1035.TabbedPanelsTabSelected #u1037,#u1023:hover #u1026,#u1023:hover #u1024-4
+{
+	background-color: transparent;
+}
+
+#u1023:active #u1024-4
+{
+	background-color: transparent;
+}
+
+#u1023:hover #u1024-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1023:active #u1024-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1023.TabbedPanelsTabSelected #u1024-4 p
+{
+	color: #000000;
+	visibility: inherit;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 24px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u1026,#u1025,#u1027
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1023.TabbedPanelsTabSelected,#u1027:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1028-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	position: relative;
+}
+
+#u1023.TabbedPanelsTabSelected #u1024-4,#u1023:hover #u1025,#u1027:hover #u1030,#u1027:hover #u1028-4
+{
+	background-color: transparent;
+}
+
+#u1027:active #u1028-4
+{
+	background-color: transparent;
+}
+
+#u1027:hover #u1028-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1027:active #u1028-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1030,#u1029,#u1035
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1027.TabbedPanelsTabSelected,#u1035:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1038-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	position: relative;
+}
+
+#u1027.TabbedPanelsTabSelected #u1028-4,#u1027:hover #u1029,#u1035:hover #u1036,#u1035:hover #u1038-4
+{
+	background-color: transparent;
+}
+
+#u1035:active #u1038-4
+{
+	background-color: transparent;
+}
+
+#u1027.TabbedPanelsTabSelected #u1028-4 p,#u1035:hover #u1038-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1035:active #u1038-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1036,#u1037,#u1039
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1035.TabbedPanelsTabSelected,#u1039:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1041-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	position: relative;
+}
+
+#u1035.TabbedPanelsTabSelected #u1038-4,#u1035:hover #u1037,#u1039:hover #u1040,#u1039:hover #u1041-4
+{
+	background-color: transparent;
+}
+
+#u1039:active #u1041-4
+{
+	background-color: transparent;
+}
+
+#u1035.TabbedPanelsTabSelected #u1038-4 p,#u1039:hover #u1041-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1039:active #u1041-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1039.TabbedPanelsTabSelected #u1041-4,#u1039:hover #u1042
+{
+	background-color: transparent;
+}
+
+#u1040,#u1042,#u1031
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1039.TabbedPanelsTabSelected,#u1031:hover
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1031.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	border-color: #B6CAF3;
+	background-color: #FFFFFF;
+	border-width: 0px 0px 2px;
+}
+
+#u1033-4
+{
+	border-style: none;
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	position: relative;
+}
+
+#u1039.TabbedPanelsTabSelected #u1041-4 p,#u1031:hover #u1033-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1031.TabbedPanelsTabSelected #u1033-4 p
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u1032,#u1034
+{
+	position: relative;
+}
+
+#u1004
+{
+	border-style: none;
+	background-color: transparent;
+	position: relative;
+}
+
+#u1007,#u1019,#u1016,#u1012,#u1005
+{
+	border-style: none;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1049,#u1050,#u1051,#u1052,#u1047,#u1048,#u1045,#u1046,#u1014,#u1013,#u1015,#u1043,#u1044
+{
+	background-color: #7F7F7F;
+	position: relative;
+}
+
+.TabbedPanelsTab /* tabset */
+{
+	cursor: pointer;
+}
+
