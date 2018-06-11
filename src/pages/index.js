@@ -5,9 +5,9 @@ import About from './../components/About/index'
 import Social from './../components/Social/index'
 
 import styles from './master.module.css'
-// import logo from "../gatsby-light.svg"
 
 export default ({ data }) => (
+  <div>
   <div className={styles.wrap}>
     <Grid>
       {data &&
@@ -31,7 +31,9 @@ export default ({ data }) => (
         ))}
     </Grid>
 
+  </div>
     <About md={data.allMarkdownRemark.edges} />
+    <h2>People I like... my digital teachers</h2>
   </div>
 )
 

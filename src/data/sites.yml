@@ -1,5 +1,5 @@
 - url: https://mattbag.github.io
-  name: My Portfolio 2016
+  name: My Portfolio 2018
 - url: https://mattbag.github.io/wp-gatsby
   name: Gatsby wp demo
 - url: https://gatsby-gallery-netlify-cms.netlify.com
@@ -8,8 +8,8 @@
   name: Gatsby Contenful
 - url: http://borntobewise.altervista.org
   name: React WP
-# - url: https://www.mattbag.github.io/portfolio2016
-  # name: Static Wp
+- url: https://www.mattbag.github.io/folio2016
+  name: Static Wp 2016
 - url: https://mattbag.github.io/tinderwars
   name: Ionic2 Tinder Wars
 - url: https://mattbag.github.io/dosnap
@@ -28,40 +28,28 @@
   name: WP Custom Site
 - url: https://www.themalton.com.au
   name: WP Custom Site
-# - url: https://www.themalton.com.au
-  # name: The Malton
 - url: https://www.drivershq.com.au
   name: Static Umbraco Site
 - url: https://av1.com.au
   name: WP Custom Site
-# - url: http://www.marchesepartners.com
-#   name: WP Custom Site
 - url: http://www.massimomele.com
   name: WP Custom Site
-# - url: http://www.smartfreight.com
-#   name: Umbraco Site
-# - url: http://www.youngacademics.com.au
-#   name: WP Custom Site
-# - url: http://www.likemindadvisory.com.au
-#   name: WP Custom Site
 - url: http://www.pallascapital.com.au
   name: Umbraco Custom Site
 # - url: http://www.sprintr.com.au
 #   name: WP Custom Site
-# - url: http://www.threadtogether.org.au
-#   name: WP Custom Site
-# - url: http://www.born-raised.com.au
-#   name: WP Custom Site
-# - url: http://www.clarkeandhumel.com.au
-#   name: Umbraco Custom Site
+- url: http://www.threadtogether.org
+  name: WP Custom Site
+- url: http://www.born-raised.com.au
+  name: WP Custom Site
+- url: http://www.clarkeandhumel.com.au
+  name: Umbraco Custom Site
 - url: http://www.thesquiz.com.au
   name: Umbraco Custom Site
 - url: http://www.marrytheman.com.au
   name: Umbraco Custom Site
-# - url: http://www.thehourglass.com
-#   name: Wp Custom Multisite
-# - url: http://contentiouscharacter.com.au
-  # name: Shopify Custom Site
+- url: http://contentiouscharacter.com.au
+  name: Shopify Custom Site
 - url: http://www.easyshirt.it
   name: Wp ecomm
 - url: http://www.maglificiolsm.com

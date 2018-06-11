@@ -6,6 +6,9 @@ export default class Grid extends Component {
     super(props)
     this.cells = 1
     this.grid = React.createRef()
+    // this.state = {
+    //   cells : this.cells
+    // }
   }
   // componentDidMount(){
   // console.log(this.grid.current.style)
@@ -22,7 +25,6 @@ export default class Grid extends Component {
         ref={this.grid}
         className={styles.grid}
         style={{
-          '--cells': 1,
           gridTemplateColumns: `repeat(var(--cells), 1fr)`,
         }}
       >
@@ -39,7 +41,9 @@ export default class Grid extends Component {
             cursor: 'var(--cursor)',
           }}
         >
-          change
+        <small>
+          switch grid
+        </small>
         </p>
         {this.props.children}
       </div>

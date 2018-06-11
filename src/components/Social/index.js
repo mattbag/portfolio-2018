@@ -10,16 +10,14 @@ const links = [
 
 const Social = () => (
   <div
-    className={`${styles.shadow}`}
+    className={`${styles.shadow} ${styles.bg}`}
     style={{
       padding: '4rem 1rem 1rem',
-      backgroundColor: 'blue',
-    
     }}
-  >
-
+    >
       <ul
         style={{
+          backgroundColor: 'blue',
           margin: 0,
           listStyle: 'none',
           display: 'flex',
@@ -30,7 +28,8 @@ const Social = () => (
         {links.map(s => (
           <li key={s.name}
           style={{
-            margin: 2
+            margin: 2,
+            padding:2
             }}>
             <a
               href={s.link}
