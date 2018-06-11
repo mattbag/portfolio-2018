@@ -33,7 +33,7 @@ export default ({ data }) => (
 
   </div>
     <About md={data.allMarkdownRemark.edges} />
-    <h2>People I like... my digital teachers</h2>
+    {/* <h2>People I like... my digital teachers</h2> */}
   </div>
 )
 

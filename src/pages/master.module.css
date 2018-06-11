@@ -65,7 +65,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     display: grid;
-    grid-gap: 2vw;
+    grid-gap: 4vw;
     grid-template-columns: repeat(var(--cells), 1fr);
 }
 

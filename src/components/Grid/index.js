@@ -25,6 +25,7 @@ export default class Grid extends Component {
         ref={this.grid}
         className={styles.grid}
         style={{
+          '--cells': this.cells,
           gridTemplateColumns: `repeat(var(--cells), 1fr)`,
         }}
       >
