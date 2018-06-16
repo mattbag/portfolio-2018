@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/Header'
 import './index.css'
-import styles from './../pages/master.module.css'
+import styles from '../styles/master.module.css'
 
 const TemplateWrapper = ({ children }) => (
   <div className={styles.outer}>

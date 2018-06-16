@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import styles from './../../pages/master.module.css'
+import styles from '../../styles/master.module.css'
 
 export default class Grid extends Component {
   constructor(props) {
@@ -42,9 +42,7 @@ export default class Grid extends Component {
             cursor: 'var(--cursor)',
           }}
         >
-        <small>
-          switch grid
-        </small>
+          <small>switch grid</small>
         </p>
         {this.props.children}
       </div>

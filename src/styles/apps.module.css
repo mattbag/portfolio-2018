@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: 10vw 1fr 2fr 10vw;
+    grid-gap: 2vw;
+    padding: 2vw;
+}
+
+.phone{
+    height: 640px;
+    width: 420px;
+    /* background: blue; */
+}
