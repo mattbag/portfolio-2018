@@ -15,7 +15,7 @@ export default ({ data }) => (
       <Apps>
         {data &&
           data.allAppsYaml.edges.map(({ node }) => (
-            <div className={appSstyles.row}>
+            <div className={appSstyles.row} key={node.url}>
               <Phone url={node.url} />
               <div
                 style={{
