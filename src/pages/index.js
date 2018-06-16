@@ -2,6 +2,7 @@ import React from 'react'
 import Img from 'gatsby-image'
 import Grid from './../components/Grid/index'
 import Apps from './../components/Apps/index'
+import Phone from './../components/Apps/Phone'
 import About from './../components/About/index'
 import Social from './../components/Social/index'
 
@@ -14,17 +15,8 @@ export default ({ data }) => (
       <Apps>
         {data &&
           data.allAppsYaml.edges.map(({ node }) => (
-            <div className={appSstyles.grid}>
-              <div
-                className={`${appSstyles.phone} ${styles.bg} ${styles.shadow}`}
-                style={{
-                  gridColumnStart: 2,
-                  gridColumnEnd: 3,
-                }}
-              >
-                iframe
-                <span>{node.url}</span>
-              </div>
+            <div className={appSstyles.row}>
+              <Phone url={node.url} />
               <div
                 style={{
                   color: 'white',
@@ -34,6 +26,9 @@ export default ({ data }) => (
               >
                 <h2>{node.name}</h2>
                 <p>{node.copy}</p>
+                <a href={node.url} target="_blank" style={{ color: 'white' }}>
+                  open
+                </a>
               </div>
             </div>
           ))}

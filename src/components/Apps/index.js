@@ -13,6 +13,7 @@ export default class Apps extends Component {
   render() {
     return (
       <div
+        className={appStyles.grid}
         style={{
           maxWidth: '100%',
           overflow: 'hidden',
