@@ -4,7 +4,7 @@ import styles from '../../styles/master.module.css'
 export default class Grid extends Component {
   constructor(props) {
     super(props)
-    this.cells = 1
+    this.cells = 4
     this.grid = React.createRef()
     // this.state = {
     //   cells : this.cells
@@ -15,7 +15,7 @@ export default class Grid extends Component {
   // this.grid.current.style.setProoerty('--cells',2)
   // }
   changeCells = () => {
-    this.cells > 3 ? (this.cells = 1) : (this.cells += 1)
+    this.cells < 2 ? (this.cells = 4) : (this.cells -= 1)
     this.grid.current.style.setProperty('--cells', this.cells)
   }
 
@@ -42,7 +42,7 @@ export default class Grid extends Component {
             cursor: 'var(--cursor)',
           }}
         >
-          <small>switch grid</small>
+          <small>zoom in</small>
         </p>
         {this.props.children}
       </div>

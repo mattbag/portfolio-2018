@@ -20,7 +20,7 @@ export default ({ data }) => (
                 style={{
                   gridColumnStart: i % 2 > 0 ? 2 : 3,
                   gridColumnEnd: i % 2 > 0 ? 3 : 4,
-                  marginTop: '-10%',
+                  // transform: 'translateY(-10%)',
                 }}
               >
                 <Phone url={node.url} />
