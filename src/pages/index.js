@@ -14,14 +14,23 @@ export default ({ data }) => (
     <div className={styles.wrap}>
       <Apps>
         {data &&
-          data.allAppsYaml.edges.map(({ node }) => (
-            <div className={appSstyles.row} key={node.url}>
-              <Phone url={node.url} />
+          data.allAppsYaml.edges.map(({ node }, i) => (
+            <div className={appSstyles.row} key={i}>
+              <div
+                style={{
+                  gridColumnStart: i % 2 > 0 ? 2 : 3,
+                  gridColumnEnd: i % 2 > 0 ? 3 : 4,
+                  marginTop: '-10%',
+                }}
+              >
+                <Phone url={node.url} />
+              </div>
               <div
                 style={{
                   color: 'white',
-                  gridColumnStart: 3,
-                  gridColumnEnd: 4,
+                  gridColumnStart: i % 2 > 0 ? 3 : 2,
+                  gridColumnEnd: i % 2 > 0 ? 4 : 3,
+                  textAlign: i % 2 > 0 ? 'left' : 'right',
                 }}
               >
                 <h2>{node.name}</h2>

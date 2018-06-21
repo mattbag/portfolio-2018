@@ -45,17 +45,21 @@ body {
     background-color: var(--black);
     font-family: 'Courier New', Courier, monospace
 }
+@media screen and (max-width:900px){
 
+    .show__dk{
+        display: none
+    }
+
+}
 .outer{
     background-color: var(--black);
     box-shadow: var(--shadow);
-    /* transform: skewY(var(--body-skew)); */
     composes: skew1
 }
 .inner{
     composes: skew2
 }
-
 
 .wrap {
     /* max-width: 900px; */
@@ -63,7 +67,6 @@ body {
     padding-top: 100px;
     padding-bottom: 100px;
 }
-
 
 .logo {
     display: inline-block;

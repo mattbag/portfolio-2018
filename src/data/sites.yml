@@ -8,7 +8,7 @@
   name: Gatsby Contenful
 - url: http://borntobewise.altervista.org
   name: React WP
-- url: https://www.mattbag.github.io/folio2016
+- url: https://mattbag.github.io/folio2016
   name: Static Wp 2016
 - url: https://mattbag.github.io/tinderwars
   name: Ionic2 Tinder Wars
@@ -54,9 +54,11 @@
   name: Wp ecomm
 - url: http://www.maglificiolsm.com
   name: Gatsby Site
-- url: https://mattbag.github.io/volaagency
+- url: https://mattbag.github.io/folio2016/volaagency
   name: Static Muse site
-- url: https://mattbag.github.io/garagenerd
+- url: https://mattbag.github.io/folio2016/garagenerd
   name: Static Muse site
-- url: https://mattbag.github.io/pizzeria
+- url: https://mattbag.github.io/folio2016/pizzeria/
+  name: Static Muse site
+- url: https://mattbag.github.io/folio2016/filmfest/
   name: Static Muse site

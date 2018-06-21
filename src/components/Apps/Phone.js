@@ -13,10 +13,10 @@ export default class Phone extends Component {
   render() {
     return (
       <div
-        className={`${appStyles.phone} ${styles.bg} ${styles.shadow}`}
+        className={`${appStyles.phone} ${styles.bg} ${styles.shadow} ${
+          styles.show__dk
+        }`}
         style={{
-          gridColumnStart: 2,
-          gridColumnEnd: 3,
           paddingTop: `${420 / 640 * 100}%`,
         }}
       >
@@ -31,12 +31,10 @@ export default class Phone extends Component {
             <div className={appStyles.pulse} />
             <div
               className={appStyles.pulse}
-              style={{ width: '3rem', height: '3rem' }}
+              style={{ width: '3rem', height: '3rem', animationDelay: '200ms' }}
             />
             <svg
               aria-hidden="true"
-              data-prefix="fas"
-              data-icon="sign-language"
               role="img"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 448 512"
