@@ -17,7 +17,7 @@ export default class Phone extends Component {
           styles.show__dk
         }`}
         style={{
-          paddingTop: `${420 / 640 * 100}%`,
+          paddingTop: `${640 / 420 * 100}%`,
         }}
       >
         <div
@@ -31,7 +31,12 @@ export default class Phone extends Component {
             <div className={appStyles.pulse} />
             <div
               className={appStyles.pulse}
-              style={{ width: '3rem', height: '3rem', animationDelay: '200ms' }}
+              style={{
+                width: '3rem',
+                height: '3rem',
+                // animationDelay: '400ms',
+                animationDuration: '2500ms',
+              }}
             />
             <svg
               aria-hidden="true"

@@ -3,7 +3,7 @@ import React from 'react'
 import styles from '../../styles/master.module.css'
 
 const links = [
-  { name: 'github', link: 'https://mattbag.github.io/' },
+  { name: 'github', link: 'https://github.com/mattbag' },
   { name: 'linkedin', link: 'https://www.linkedin.com/in/matteobagni88/' },
   { name: 'twitter', link: 'https://mobile.twitter.com/mattbag00' },
   { name: 'codepen', link: 'https://codepen.io/mattbag/' },

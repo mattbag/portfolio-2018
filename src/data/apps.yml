@@ -1,3 +1,9 @@
+- url: https://mattbag.github.io/ion-pm
+  name: Atlas Go
+  copy: Project Mangement app lugged into firebase. Mobile and desktop.
+- url: https://mattbag.github.io/coffeerun-repo/
+  name: CoffeeRun
+  copy: Be the office hero! Firebase store and auth (now off)
 - url: https://mattbag.github.io/tinderwars
   name: Tinder Wars
   copy: Playing around with Ionic2 during a 12h star wars hackaton

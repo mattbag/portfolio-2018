@@ -7,9 +7,41 @@
   align-items: center
 }
 
+.rx {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+  grid-auto-rows: minmax(60px, auto);
+  grid-gap: 6vw 4vw;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.app {
+  grid-row: span 6;
+  /* background: blue; */
+}
+
+.empty {
+  grid-row: span 1;
+  color: white;
+  text-align: right;
+}
+
+.apptext {
+  /* background: red; */
+  color: white;
+  padding: 1rem;
+}
+
+@media screen and (min-width:901px) {
+  .apptext {
+    grid-row: span 4;
+  }
+}
+
 .phone {
-  height: 640px;
-  width: 420px;
+  /* height: 640px; */
+  /* width: 420px; */
   position: relative;
 }
 
@@ -22,53 +54,53 @@
   width: 100%;
   height: 100%;
   border-radius: 3px;
-  border:none;
+  border: none;
   background-color: #333;
   margin: 0;
   z-index: 2;
 }
 
-.play{
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    margin: auto;
-    cursor: pointer;
-    width: 4rem;
-    height:  4rem;
-    color: white;
-    z-index: 4;
+.play {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  cursor: pointer;
+  width: 4rem;
+  height: 4rem;
+  color: white;
+  z-index: 4;
 }
 
-.pulse{
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    margin: auto;
-    cursor: pointer;
-    width: 4rem;
-    height: 4rem;
-    z-index: -1;
-    border: 3px dashed var(--blue,blue);
-    border-radius:999px;
-    animation: pulser 3s infinite ease-in-out;
-    will-change: transform,opacity;
+.pulse {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  cursor: pointer;
+  width: 4rem;
+  height: 4rem;
+  z-index: -1;
+  border: 3px dashed var(--blue, rgb(54, 190, 253));
+  border-radius: 999px;
+  animation: pulser 3s infinite ease-in-out;
+  will-change: transform, opacity;
 }
 
-@keyframes pulser{
-    0%{
-        transform: scale(.5);
-    }
-    80%{
-        transform: scale(2.5);
-        opacity: 0;
-    }
-    100%{
-        transform: scale(2.5);
-        opacity: 0;
-    }
+@keyframes pulser {
+  0% {
+    transform: scale(.5);
+  }
+  80% {
+    transform: scale(2.5);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(2.5);
+    opacity: 0;
+  }
 }

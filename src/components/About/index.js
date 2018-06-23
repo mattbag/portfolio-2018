@@ -51,7 +51,8 @@ const About = props => (
         style={{
           width: '90%',
           margin: 'auto',
-          transform: 'translate3d(0,-30%,-1px) skewY(2deg)',
+          transform: 'translate3d(0,-30%,0) skewY(-2deg)',
+          zIndex: -1,
         }}
       >
         <Social />

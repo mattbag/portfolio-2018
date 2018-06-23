@@ -3,27 +3,30 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/Header'
+import Blocker from '../components/Blocker'
 import './index.css'
 import styles from '../styles/master.module.css'
 
 const TemplateWrapper = ({ children }) => (
-  <div className={styles.outer}>
-    <Helmet title="🤓 Matt__Bagni--2018" />
-
+  <React.Fragment>
+    <Blocker />
     <Header />
+    <div className={styles.outer}>
+      <Helmet title="🤓 Matt__Bagni--2018" />
 
-    <div
-      className={styles.inner}
-      style={{
-        margin: '0 auto',
-        maxWidth: `80em`,
-        padding: '2vw',
-        paddingTop: 0,
-      }}
-    >
-      {children()}
+      <div
+        className={styles.inner}
+        style={{
+          margin: '0 auto',
+          maxWidth: `80em`,
+          padding: '2vw',
+          paddingTop: 0,
+        }}
+      >
+        {children()}
+      </div>
     </div>
-  </div>
+  </React.Fragment>
 )
 
 TemplateWrapper.propTypes = {
