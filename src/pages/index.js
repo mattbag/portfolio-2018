@@ -53,15 +53,20 @@ export default ({ data }) => (
             </div>
           </React.Fragment>
         ))}
-      {/* <div className={appSstyles.app}>3</div>
-        <div className={appSstyles.apptext}>4</div>
-        <div className={appSstyles.app}>5</div>
-        <div className={appSstyles.apptext}>6</div>
-        <div className={appSstyles.app}>7</div>
-        <div className={appSstyles.apptext}>8</div> */}
     </div>
     <About md={data.allMarkdownRemark.edges} />
-    {/* <h2>People I like... my digital teachers</h2> */}
+
+    <h2>To do:</h2>
+    <ul>
+      <li>People I like</li>
+      <li>offline</li>
+      <li>manifest</li>
+      <li>v2</li>
+      <li>typography</li>
+      <li>site square fix</li>
+      <li>codrops inspiration for tyles</li>
+      <li>more pages? about read more/timeline/cv?</li>
+    </ul>
   </div>
 )
 

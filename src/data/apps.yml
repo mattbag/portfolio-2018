@@ -13,4 +13,7 @@
 - url: https://mattbag.github.io/ion-hub
   name: Github explorer
   copy: Simple tutorial on Ionic, extended to show cool github data
+- url: https://mattbag.github.io/ionic-wo-blog
+  name: Ionic Blog with wp
+  copy: Wrapper for a wp blog made with ionic
 

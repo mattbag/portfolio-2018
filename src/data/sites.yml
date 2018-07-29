@@ -34,10 +34,12 @@
   name: WP Custom Site
 - url: http://www.massimomele.com
   name: WP Custom Site
+- url: http://www.thehourglass.com
+  name: WP Custom Multi site network
 - url: http://www.pallascapital.com.au
   name: Umbraco Custom Site
-# - url: http://www.sprintr.com.au
-#   name: WP Custom Site
+- url: http://www.sprintr.com.au
+  name: WP Divi Site
 - url: http://www.threadtogether.org
   name: WP Custom Site
 - url: http://annex.12creekstreet.com.au
