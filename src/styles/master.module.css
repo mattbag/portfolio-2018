@@ -132,7 +132,7 @@ body {
 .label {
   composes: shadow;
   background-color: #0e7decdc;
-  padding: 1.3vw;
+  padding: .5vw;
   transform: skew(calc(-var(--body-skew)*5));
   grid-area: 1/1/1/4;
   margin-bottom: 1rem;

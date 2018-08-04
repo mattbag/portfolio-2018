@@ -35,19 +35,33 @@ export default ({ data }) => (
     <div className={appSstyles.rx}>
       {data.allAppsYaml &&
         data.allAppsYaml.edges.map(({ node }, i) => (
-          <React.Fragment>
+          <React.Fragment key={`app_${i}`}>
             <div className={`${appSstyles.app} ${styles.show__dk}`}>
               <Phone url={node.url} />
             </div>
             {i === 0 && (
               <div className={appSstyles.empty}>
-                <h2>Apps</h2>
+                <h2 style={{ fontSize: `calc(2rem + 4vw)` }}>Apps</h2>
               </div>
             )}
-            <div className={appSstyles.apptext}>
-              <h2>{node.name}</h2>
+            <div
+              className={appSstyles.apptext}
+              style={{
+                textAlign: i % 2 == 0 ? '' : 'right',
+              }}
+            >
+              <h2 style={{ fontSize: `calc(1rem + 2vw)` }}>{node.name}</h2>
               <p>{node.copy}</p>
-              <a href={node.url} target="_blank" style={{ color: 'white' }}>
+              <a
+                href={node.url}
+                target="_blank"
+                style={{
+                  color: 'white',
+                  borderLeft: `2px dotted #00f`,
+                  padding: `.5rem`,
+                  textDecoration: 'none',
+                }}
+              >
                 open in browser
               </a>
             </div>
@@ -56,7 +70,8 @@ export default ({ data }) => (
     </div>
     <About md={data.allMarkdownRemark.edges} />
 
-    <h2>To do:</h2>
+    {/* {location.host == 'localhost' && console.log(location)} */}
+    {/* <h2>To do:</h2>
     <ul>
       <li>People I like</li>
       <li>offline</li>
@@ -66,7 +81,7 @@ export default ({ data }) => (
       <li>site square fix</li>
       <li>codrops inspiration for tyles</li>
       <li>more pages? about read more/timeline/cv?</li>
-    </ul>
+    </ul> */}
   </div>
 )
 
